@@ -1,0 +1,8 @@
+{
+  "image_id": "label_002",
+  "blocks": [
+    {"text": "MRP Rs 85", "bbox": [30, 15, 150, 26], "confidence": 0.42, "engine": "easyocr"},
+    {"text": "500ml", "bbox": [30, 50, 90, 22], "confidence": 0.89, "engine": "paddleocr"},
+    {"text": "Marketed by ABC Traders", "bbox": [30, 85, 260, 26], "confidence": 0.90, "engine": "paddleocr"}
+  ]
+}

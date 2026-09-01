@@ -1,0 +1,10 @@
+# Compliance track (Person B) dependencies.
+# Deliberately minimal - this track has no OCR/CV dependencies at all,
+# it only ever consumes JSON matching shared/ocr_contract.json.
+
+pytest>=8.0.0
+
+# Uncomment when api/main.py is built (the shared merge point):
+# fastapi>=0.110.0
+# uvicorn>=0.29.0
+# pydantic>=2.6.0

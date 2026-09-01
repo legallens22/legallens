@@ -1,0 +1,18 @@
+{
+  "$comment": "This is the LOCKED contract between Vision (Person A) and Compliance (Person B). Person A's pipeline.py must always output exactly this shape. Person B's code must only ever assume this shape. Changing this file requires a joint review.",
+  "image_id": "string",
+  "blocks": [
+    {
+      "text": "string - the raw OCR'd text for this region",
+      "bbox": "[x, y, width, height] - all ints, pixel coordinates, origin top-left",
+      "confidence": "float between 0.0 and 1.0 (NOT 0-100)",
+      "engine": "string - 'paddleocr' or 'easyocr'"
+    }
+  ],
+  "notes": {
+    "empty_result": "If OCR finds nothing, 'blocks' must be an empty list [], never null/missing.",
+    "low_confidence_threshold": "Any block with confidence < 0.5 is treated by Compliance as unreliable and may push a field into 'needs_manual_review' rather than fail/pass.",
+    "bbox_format": "Always [x, y, w, h] -- NOT [x1, y1, x2, y2]. Converted from polygons by Person A before handoff.",
+    "overlap_resolution": "If both engines detect the same region, Person A resolves to a single block before handoff (Compliance never sees duplicate/overlapping blocks for the same text)."
+  }
+}
