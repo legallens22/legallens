@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+sample_data/sample_labels/*.jpg
+sample_data/sample_labels/*.png
