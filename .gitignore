@@ -7,3 +7,4 @@ sample_data/sample_labels/*.png
 sample_data/cleaned_previews/
 sample_data/cropped_previews/
 sample_data/debug_contours/
+sample_data/_temp_pipeline/
