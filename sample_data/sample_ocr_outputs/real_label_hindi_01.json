@@ -1,0 +1,1482 @@
+{
+  "image_id": "sample_data\\sample_labels\\label_hindi_01.jpg",
+  "image_width": 1600,
+  "image_height": 1600,
+  "status": "ok",
+  "blocks": [
+    {
+      "text": "षावभाजी",
+      "bbox": [
+        535,
+        532,
+        175,
+        74
+      ],
+      "confidence": 0.9176252565173512,
+      "engine": "easyocr"
+    },
+    {
+      "text": "tit-bit",
+      "bbox": [
+        984,
+        217,
+        315,
+        183
+      ],
+      "confidence": 0.9992871880531311,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "alahralt",
+      "bbox": [
+        1029,
+        368,
+        322,
+        147
+      ],
+      "confidence": 0.6401273012161255,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "qlauut",
+      "bbox": [
+        388,
+        463,
+        246,
+        72
+      ],
+      "confidence": 0.6032298803329468,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "RT",
+      "bbox": [
+        612,
+        475,
+        154,
+        50
+      ],
+      "confidence": 0.6765945553779602,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "HRIIOIT",
+      "bbox": [
+        1084,
+        466,
+        235,
+        90
+      ],
+      "confidence": 0.6529479026794434,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "बनाने",
+      "bbox": [
+        434,
+        567,
+        47,
+        28
+      ],
+      "confidence": 0.9895607999961336,
+      "engine": "easyocr"
+    },
+    {
+      "text": "of",
+      "bbox": [
+        618,
+        604,
+        26,
+        24
+      ],
+      "confidence": 0.9769767923230995,
+      "engine": "easyocr"
+    },
+    {
+      "text": "बड",
+      "bbox": [
+        495,
+        619,
+        24,
+        20
+      ],
+      "confidence": 0.6338676689679403,
+      "engine": "easyocr"
+    },
+    {
+      "text": "मसाला",
+      "bbox": [
+        1066,
+        616,
+        151,
+        90
+      ],
+      "confidence": 0.9656679626668775,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Heat 2 tbsp. oil or butter, saute 2 chopped onions, 1 tbsp",
+      "bbox": [
+        306,
+        637,
+        564,
+        49
+      ],
+      "confidence": 0.9901822805404663,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ginger-garlic paste and 1 chopped capsicum for 3-4 minutes.",
+      "bbox": [
+        308,
+        656,
+        609,
+        55
+      ],
+      "confidence": 0.9907054305076599,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ate frf, f, e",
+      "bbox": [
+        1086,
+        646,
+        306,
+        76
+      ],
+      "confidence": 0.5981749296188354,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "बारीक कटी",
+      "bbox": [
+        494,
+        720,
+        76,
+        32
+      ],
+      "confidence": 0.9816183452066736,
+      "engine": "easyocr"
+    },
+    {
+      "text": "सामग्री",
+      "bbox": [
+        1102,
+        722,
+        81,
+        69
+      ],
+      "confidence": 0.992544271347632,
+      "engine": "easyocr"
+    },
+    {
+      "text": "chopped",
+      "bbox": [
+        661,
+        714,
+        80,
+        41
+      ],
+      "confidence": 0.9987379249622852,
+      "engine": "easyocr"
+    },
+    {
+      "text": "minutes.",
+      "bbox": [
+        313,
+        771,
+        98,
+        32
+      ],
+      "confidence": 0.999562680721283,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "दालचीनी",
+      "bbox": [
+        1105,
+        785,
+        79,
+        52
+      ],
+      "confidence": 0.9524501278904091,
+      "engine": "easyocr"
+    },
+    {
+      "text": "with",
+      "bbox": [
+        480,
+        872,
+        38,
+        22
+      ],
+      "confidence": 0.8936078548431396,
+      "engine": "easyocr"
+    },
+    {
+      "text": "आमचूर",
+      "bbox": [
+        1049,
+        819,
+        67,
+        42
+      ],
+      "confidence": 0.9525152973508642,
+      "engine": "easyocr"
+    },
+    {
+      "text": "८से हए",
+      "bbox": [
+        621,
+        827,
+        60,
+        40
+      ],
+      "confidence": 0.16750905337183036,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Add",
+      "bbox": [
+        475,
+        849,
+        42,
+        29
+      ],
+      "confidence": 0.5354527831077576,
+      "engine": "easyocr"
+    },
+    {
+      "text": "इलायची",
+      "bbox": [
+        1154,
+        824,
+        72,
+        54
+      ],
+      "confidence": 0.9708463084866505,
+      "engine": "easyocr"
+    },
+    {
+      "text": "कडछी",
+      "bbox": [
+        740,
+        865,
+        49,
+        27
+      ],
+      "confidence": 0.9628298282623291,
+      "engine": "easyocr"
+    },
+    {
+      "text": "water",
+      "bbox": [
+        569,
+        892,
+        50,
+        26
+      ],
+      "confidence": 0.9895630557331734,
+      "engine": "easyocr"
+    },
+    {
+      "text": "anst u.",
+      "bbox": [
+        1110,
+        885,
+        128,
+        49
+      ],
+      "confidence": 0.6297338604927063,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "green",
+      "bbox": [
+        815,
+        930,
+        54,
+        28
+      ],
+      "confidence": 0.766245950958002,
+      "engine": "easyocr"
+    },
+    {
+      "text": "dfTI",
+      "bbox": [
+        563,
+        980,
+        52,
+        31
+      ],
+      "confidence": 0.43274176120758057,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Tit Bit ",
+      "bbox": [
+        399,
+        1030,
+        55,
+        36
+      ],
+      "confidence": 0.6668192929007255,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Add 3 tbsp. of TIT-BIT PAVBHAJI MASALA and salt as per taste.",
+      "bbox": [
+        320,
+        1032,
+        637,
+        37
+      ],
+      "confidence": 0.9988718628883362,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Ingredients",
+      "bbox": [
+        1170,
+        1002,
+        223,
+        69
+      ],
+      "confidence": 0.9999826550483704,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Clove",
+      "bbox": [
+        1125,
+        1094,
+        61,
+        40
+      ],
+      "confidence": 0.9970079207731541,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Coriander, Dry Mango,",
+      "bbox": [
+        1125,
+        1084,
+        293,
+        69
+      ],
+      "confidence": 0.9991730451583862,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For",
+      "bbox": [
+        409,
+        1123,
+        22,
+        20
+      ],
+      "confidence": 0.999537231582518,
+      "engine": "easyocr"
+    },
+    {
+      "text": "airtight",
+      "bbox": [
+        743,
+        1123,
+        64,
+        40
+      ],
+      "confidence": 0.9993616437198762,
+      "engine": "easyocr"
+    },
+    {
+      "text": "hygienic",
+      "bbox": [
+        819,
+        1167,
+        73,
+        42
+      ],
+      "confidence": 0.9999025123710475,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Cinnamon, Clove,",
+      "bbox": [
+        1127,
+        1125,
+        229,
+        57
+      ],
+      "confidence": 0.9990204572677612,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Tit-Bit Foods (India) Pvt. Ltd.",
+      "bbox": [
+        210,
+        1156,
+        264,
+        42
+      ],
+      "confidence": 0.983320951461792,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Fennel, Common Salt,",
+      "bbox": [
+        1125,
+        1146,
+        289,
+        68
+      ],
+      "confidence": 0.9953998327255249,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Plot No. A-55, T.T.C. Industrial Area,",
+      "bbox": [
+        210,
+        1187,
+        315,
+        41
+      ],
+      "confidence": 0.9827569723129272,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "place",
+      "bbox": [
+        884,
+        1186,
+        44,
+        28
+      ],
+      "confidence": 0.9999901905835616,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Bay Leaves, Black",
+      "bbox": [
+        1124,
+        1183,
+        243,
+        62
+      ],
+      "confidence": 0.9986235499382019,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "M.I.D.C., Mahape, Navi Mumbai - 400 710.",
+      "bbox": [
+        208,
+        1213,
+        374,
+        45
+      ],
+      "confidence": 0.9984025955200195,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Pepper, Black",
+      "bbox": [
+        1123,
+        1224,
+        183,
+        49
+      ],
+      "confidence": 0.9970657825469971,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Maharashtra.",
+      "bbox": [
+        207,
+        1253,
+        125,
+        35
+      ],
+      "confidence": 0.9999837279319763,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Cardamom, Black Salt,",
+      "bbox": [
+        1120,
+        1241,
+        306,
+        63
+      ],
+      "confidence": 0.9822742938995361,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For Complaints / Feedback",
+      "bbox": [
+        204,
+        1277,
+        242,
+        40
+      ],
+      "confidence": 0.9844200015068054,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "line",
+      "bbox": [
+        732,
+        1310,
+        30,
+        26
+      ],
+      "confidence": 0.973999455068556,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Stone flower, Curry",
+      "bbox": [
+        1115,
+        1279,
+        263,
+        55
+      ],
+      "confidence": 0.9991781115531921,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Call Chief Customer Care Officer",
+      "bbox": [
+        203,
+        1300,
+        292,
+        42
+      ],
+      "confidence": 0.976004958152771,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "are",
+      "bbox": [
+        881,
+        1355,
+        24,
+        18
+      ],
+      "confidence": 0.9996278008938535,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Leaves.",
+      "bbox": [
+        1112,
+        1324,
+        99,
+        40
+      ],
+      "confidence": 0.9508126378059387,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "+91 22 2778 0608",
+      "bbox": [
+        201,
+        1337,
+        171,
+        38
+      ],
+      "confidence": 0.9687197804450989,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "processed",
+      "bbox": [
+        902,
+        1333,
+        78,
+        37
+      ],
+      "confidence": 0.9954960616295789,
+      "engine": "easyocr"
+    },
+    {
+      "text": "email us at: info@titbitspices.com",
+      "bbox": [
+        195,
+        1359,
+        307,
+        50
+      ],
+      "confidence": 0.9973139762878418,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "",
+      "bbox": [
+        586,
+        1388,
+        410,
+        43
+      ],
+      "confidence": 0.0,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "visit us at www.titbitspices.com",
+      "bbox": [
+        193,
+        1391,
+        288,
+        45
+      ],
+      "confidence": 0.9986473917961121,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "e ",
+      "bbox": [
+        585,
+        1427,
+        410,
+        44
+      ],
+      "confidence": 0.5282073616981506,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "PRODUCT OF INDIA",
+      "bbox": [
+        189,
+        1432,
+        238,
+        53
+      ],
+      "confidence": 0.9999269843101501,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "फप",
+      "bbox": [
+        733,
+        847,
+        24,
+        18
+      ],
+      "confidence": 0.10429185680105367,
+      "engine": "easyocr"
+    },
+    {
+      "text": "or 5",
+      "bbox": [
+        928,
+        836,
+        44,
+        28
+      ],
+      "confidence": 0.9948216584388545,
+      "engine": "easyocr"
+    },
+    {
+      "text": "तक",
+      "bbox": [
+        717,
+        865,
+        26,
+        16
+      ],
+      "confidence": 0.31667822337550783,
+      "engine": "easyocr"
+    },
+    {
+      "text": "हए हर",
+      "bbox": [
+        858,
+        876,
+        46,
+        24
+      ],
+      "confidence": 0.694408264752769,
+      "engine": "easyocr"
+    },
+    {
+      "text": "प८",
+      "bbox": [
+        905,
+        885,
+        30,
+        18
+      ],
+      "confidence": 0.29017444136320963,
+      "engine": "easyocr"
+    },
+    {
+      "text": "करी",
+      "bbox": [
+        1056,
+        948,
+        32,
+        30
+      ],
+      "confidence": 0.8554707169532776,
+      "engine": "easyocr"
+    },
+    {
+      "text": "PIVBHAOI",
+      "bbox": [
+        633,
+        995,
+        92,
+        43
+      ],
+      "confidence": 0.3063808159329569,
+      "engine": "easyocr"
+    },
+    {
+      "text": "सिक",
+      "bbox": [
+        794,
+        996,
+        34,
+        24
+      ],
+      "confidence": 0.5322748715836231,
+      "engine": "easyocr"
+    },
+    {
+      "text": "डालें और",
+      "bbox": [
+        866,
+        994,
+        68,
+        32
+      ],
+      "confidence": 0.8138449226332182,
+      "engine": "easyocr"
+    },
+    {
+      "text": "हुए",
+      "bbox": [
+        826,
+        1006,
+        26,
+        24
+      ],
+      "confidence": 0.6382153430132663,
+      "engine": "easyocr"
+    },
+    {
+      "text": "३ स",
+      "bbox": [
+        932,
+        1010,
+        34,
+        24
+      ],
+      "confidence": 0.4833893947849567,
+      "engine": "easyocr"
+    },
+    {
+      "text": " Area,",
+      "bbox": [
+        577,
+        1098,
+        42,
+        34
+      ],
+      "confidence": 0.8057598122581411,
+      "engine": "easyocr"
+    },
+    {
+      "text": "TTC",
+      "bbox": [
+        490,
+        1078,
+        34,
+        28
+      ],
+      "confidence": 0.9914236403138348,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Do not buy",
+      "bbox": [
+        673,
+        1083,
+        78,
+        42
+      ],
+      "confidence": 0.5870914106228605,
+      "engine": "easyocr"
+    },
+    {
+      "text": "pav",
+      "bbox": [
+        950,
+        1094,
+        34,
+        24
+      ],
+      "confidence": 0.8545469374914992,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Navi",
+      "bbox": [
+        508,
+        1104,
+        34,
+        26
+      ],
+      "confidence": 0.9988808631896973,
+      "engine": "easyocr"
+    },
+    {
+      "text": "this",
+      "bbox": [
+        746,
+        1102,
+        32,
+        26
+      ],
+      "confidence": 0.9999300241470337,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Fennel",
+      "bbox": [
+        1048,
+        1146,
+        70,
+        51
+      ],
+      "confidence": 0.9149978280325584,
+      "engine": "easyocr"
+    },
+    {
+      "text": "like",
+      "bbox": [
+        656,
+        1222,
+        30,
+        24
+      ],
+      "confidence": 0.9959516525268555,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Milk",
+      "bbox": [
+        658,
+        1244,
+        32,
+        26
+      ],
+      "confidence": 0.7422553085851992,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Soya",
+      "bbox": [
+        698,
+        1234,
+        38,
+        26
+      ],
+      "confidence": 0.9999502301216125,
+      "engine": "easyocr"
+    },
+    {
+      "text": "मसाला",
+      "bbox": [
+        701,
+        564,
+        138,
+        70
+      ],
+      "confidence": 0.7443998992979248,
+      "engine": "easyocr"
+    },
+    {
+      "text": "end",
+      "bbox": [
+        621,
+        711,
+        36,
+        23
+      ],
+      "confidence": 0.8206143988986907,
+      "engine": "easyocr"
+    },
+    {
+      "text": "onions",
+      "bbox": [
+        786,
+        725,
+        64,
+        34
+      ],
+      "confidence": 0.9664711418481513,
+      "engine": "easyocr"
+    },
+    {
+      "text": "minutes",
+      "bbox": [
+        865,
+        760,
+        74,
+        35
+      ],
+      "confidence": 0.4318316484770888,
+      "engine": "easyocr"
+    },
+    {
+      "text": "minutes",
+      "bbox": [
+        476,
+        753,
+        71,
+        35
+      ],
+      "confidence": 0.9544164984502981,
+      "engine": "easyocr"
+    },
+    {
+      "text": "green",
+      "bbox": [
+        589,
+        762,
+        52,
+        28
+      ],
+      "confidence": 0.8911077782337171,
+      "engine": "easyocr"
+    },
+    {
+      "text": "chillies",
+      "bbox": [
+        631,
+        766,
+        68,
+        39
+      ],
+      "confidence": 0.996978243946179,
+      "engine": "easyocr"
+    },
+    {
+      "text": "टपाटर",
+      "bbox": [
+        735,
+        771,
+        52,
+        30
+      ],
+      "confidence": 0.9435820409663761,
+      "engine": "easyocr"
+    },
+    {
+      "text": "tomatoes",
+      "bbox": [
+        776,
+        804,
+        83,
+        35
+      ],
+      "confidence": 0.9624983374066947,
+      "engine": "easyocr"
+    },
+    {
+      "text": "छवल",
+      "bbox": [
+        494,
+        792,
+        38,
+        22
+      ],
+      "confidence": 0.15418861131104966,
+      "engine": "easyocr"
+    },
+    {
+      "text": "भिनट",
+      "bbox": [
+        845,
+        790,
+        48,
+        34
+      ],
+      "confidence": 0.6922403580892058,
+      "engine": "easyocr"
+    },
+    {
+      "text": "लाल",
+      "bbox": [
+        1050,
+        798,
+        45,
+        34
+      ],
+      "confidence": 0.5332576036453247,
+      "engine": "easyocr"
+    },
+    {
+      "text": "घोँटते",
+      "bbox": [
+        476,
+        821,
+        46,
+        32
+      ],
+      "confidence": 0.6957755138794489,
+      "engine": "easyocr"
+    },
+    {
+      "text": "डालकर",
+      "bbox": [
+        570,
+        828,
+        53,
+        26
+      ],
+      "confidence": 0.23020545900966272,
+      "engine": "easyocr"
+    },
+    {
+      "text": "cook",
+      "bbox": [
+        883,
+        825,
+        50,
+        32
+      ],
+      "confidence": 0.48539235482471155,
+      "engine": "easyocr"
+    },
+    {
+      "text": "निनट",
+      "bbox": [
+        671,
+        844,
+        48,
+        34
+      ],
+      "confidence": 0.7660143474593903,
+      "engine": "easyocr"
+    },
+    {
+      "text": "लगालार",
+      "bbox": [
+        803,
+        880,
+        56,
+        29
+      ],
+      "confidence": 0.8268809180675878,
+      "engine": "easyocr"
+    },
+    {
+      "text": "mashed",
+      "bbox": [
+        587,
+        876,
+        72,
+        34
+      ],
+      "confidence": 0.880902759212563,
+      "engine": "easyocr"
+    },
+    {
+      "text": "CUD",
+      "bbox": [
+        534,
+        881,
+        41,
+        30
+      ],
+      "confidence": 0.7363161746102471,
+      "engine": "easyocr"
+    },
+    {
+      "text": "काली ",
+      "bbox": [
+        1048,
+        878,
+        57,
+        46
+      ],
+      "confidence": 0.6887774076796069,
+      "engine": "easyocr"
+    },
+    {
+      "text": "polatoes",
+      "bbox": [
+        665,
+        895,
+        76,
+        35
+      ],
+      "confidence": 0.6870815374058326,
+      "engine": "easyocr"
+    },
+    {
+      "text": "च्सच",
+      "bbox": [
+        517,
+        911,
+        46,
+        28
+      ],
+      "confidence": 0.3389126923297331,
+      "engine": "easyocr"
+    },
+    {
+      "text": "and",
+      "bbox": [
+        738,
+        914,
+        36,
+        22
+      ],
+      "confidence": 0.6920040249824524,
+      "engine": "easyocr"
+    },
+    {
+      "text": "cUo",
+      "bbox": [
+        785,
+        924,
+        38,
+        24
+      ],
+      "confidence": 0.25562408566474915,
+      "engine": "easyocr"
+    },
+    {
+      "text": "पावभाजी",
+      "bbox": [
+        614,
+        933,
+        68,
+        34
+      ],
+      "confidence": 0.7859191119718748,
+      "engine": "easyocr"
+    },
+    {
+      "text": "पत्ता",
+      "bbox": [
+        1082,
+        935,
+        42,
+        30
+      ],
+      "confidence": 0.5437989749489884,
+      "engine": "easyocr"
+    },
+    {
+      "text": "न",
+      "bbox": [
+        558,
+        942,
+        30,
+        22
+      ],
+      "confidence": 0.13693365957184156,
+      "engine": "easyocr"
+    },
+    {
+      "text": "masher",
+      "bbox": [
+        876,
+        958,
+        75,
+        39
+      ],
+      "confidence": 0.6300245008006972,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Add",
+      "bbox": [
+        476,
+        959,
+        40,
+        28
+      ],
+      "confidence": 0.9717852689688817,
+      "engine": "easyocr"
+    },
+    {
+      "text": "tosp",
+      "bbox": [
+        519,
+        968,
+        47,
+        33
+      ],
+      "confidence": 0.8725188970565796,
+      "engine": "easyocr"
+    },
+    {
+      "text": "पसाला",
+      "bbox": [
+        676,
+        949,
+        53,
+        30
+      ],
+      "confidence": 0.5608112714814165,
+      "engine": "easyocr"
+    },
+    {
+      "text": ",along",
+      "bbox": [
+        903,
+        946,
+        61,
+        40
+      ],
+      "confidence": 0.8662693115867729,
+      "engine": "easyocr"
+    },
+    {
+      "text": "पकाए",
+      "bbox": [
+        639,
+        960,
+        51,
+        30
+      ],
+      "confidence": 0.25100119830829815,
+      "engine": "easyocr"
+    },
+    {
+      "text": "पकखन",
+      "bbox": [
+        731,
+        982,
+        53,
+        29
+      ],
+      "confidence": 0.5079927444458008,
+      "engine": "easyocr"
+    },
+    {
+      "text": "नमक",
+      "bbox": [
+        829,
+        985,
+        40,
+        26
+      ],
+      "confidence": 0.5477726813859434,
+      "engine": "easyocr"
+    },
+    {
+      "text": "ewith",
+      "bbox": [
+        841,
+        1065,
+        47,
+        30
+      ],
+      "confidence": 0.1305619531820854,
+      "engine": "easyocr"
+    },
+    {
+      "text": ".A-55,",
+      "bbox": [
+        449,
+        1067,
+        46,
+        33
+      ],
+      "confidence": 0.7659424273685559,
+      "engine": "easyocr"
+    },
+    {
+      "text": "buttered ",
+      "bbox": [
+        879,
+        1075,
+        76,
+        36
+      ],
+      "confidence": 0.7423861148042306,
+      "engine": "easyocr"
+    },
+    {
+      "text": "MlDC",
+      "bbox": [
+        398,
+        1072,
+        61,
+        40
+      ],
+      "confidence": 0.753187894821167,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Coriander",
+      "bbox": [
+        1048,
+        1089,
+        88,
+        59
+      ],
+      "confidence": 0.9895920470607122,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Complaints",
+      "bbox": [
+        426,
+        1126,
+        73,
+        35
+      ],
+      "confidence": 0.6802728054529996,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Store ",
+      "bbox": [
+        669,
+        1129,
+        50,
+        34
+      ],
+      "confidence": 0.6130668270243987,
+      "engine": "easyocr"
+    },
+    {
+      "text": "open.",
+      "bbox": [
+        863,
+        1131,
+        49,
+        31
+      ],
+      "confidence": 0.6942870425211227,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Care",
+      "bbox": [
+        518,
+        1167,
+        37,
+        27
+      ],
+      "confidence": 0.9998793601989746,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Cardamom",
+      "bbox": [
+        1049,
+        1208,
+        97,
+        62
+      ],
+      "confidence": 0.9746678853886884,
+      "engine": "easyocr"
+    },
+    {
+      "text": "may",
+      "bbox": [
+        751,
+        1226,
+        38,
+        27
+      ],
+      "confidence": 0.7721610069274902,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Sesame",
+      "bbox": [
+        800,
+        1256,
+        68,
+        43
+      ],
+      "confidence": 0.9999787324751256,
+      "engine": "easyocr"
+    },
+    {
+      "text": "traces",
+      "bbox": [
+        841,
+        1245,
+        55,
+        36
+      ],
+      "confidence": 0.9991340813272178,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Celery",
+      "bbox": [
+        904,
+        1282,
+        58,
+        41
+      ],
+      "confidence": 0.6379543038747785,
+      "engine": "easyocr"
+    },
+    {
+      "text": "ingredient",
+      "bbox": [
+        677,
+        1270,
+        79,
+        45
+      ],
+      "confidence": 0.9995854306862025,
+      "engine": "easyocr"
+    },
+    {
+      "text": "even",
+      "bbox": [
+        750,
+        1270,
+        42,
+        29
+      ],
+      "confidence": 0.9999241232872009,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Nuts",
+      "bbox": [
+        864,
+        1275,
+        47,
+        31
+      ],
+      "confidence": 0.9995718002319336,
+      "engine": "easyocr"
+    },
+    {
+      "text": "ceave$",
+      "bbox": [
+        1049,
+        1273,
+        68,
+        48
+      ],
+      "confidence": 0.19417703877762377,
+      "engine": "easyocr"
+    },
+    {
+      "text": "product",
+      "bbox": [
+        830,
+        1313,
+        61,
+        35
+      ],
+      "confidence": 0.9894369281867947,
+      "engine": "easyocr"
+    }
+  ]
+}
