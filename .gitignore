@@ -5,3 +5,5 @@ __pycache__/
 sample_data/sample_labels/*.jpg
 sample_data/sample_labels/*.png
 sample_data/cleaned_previews/
+sample_data/cropped_previews/
+sample_data/debug_contours/
