@@ -1,0 +1,327 @@
+{
+  "image_id": "label_blurry_01.jpg",
+  "image_width": 864,
+  "image_height": 1152,
+  "status": "ok",
+  "blocks": [
+    {
+      "text": "2",
+      "bbox": [
+        0,
+        603,
+        30,
+        31
+      ],
+      "confidence": 0.9972851276397705,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "325",
+      "bbox": [
+        299,
+        597,
+        27,
+        14
+      ],
+      "confidence": 0.6906262040138245,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "289",
+      "bbox": [
+        313,
+        608,
+        23,
+        12
+      ],
+      "confidence": 0.7445697784423828,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Carbohya",
+      "bbox": [
+        194,
+        605,
+        48,
+        30
+      ],
+      "confidence": 0.868393063545227,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "3088",
+      "bbox": [
+        319,
+        612,
+        35,
+        21
+      ],
+      "confidence": 0.4747793674468994,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Total Sugan",
+      "bbox": [
+        215,
+        607,
+        59,
+        38
+      ],
+      "confidence": 0.916807234287262,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Added Suge",
+      "bbox": [
+        233,
+        614,
+        61,
+        40
+      ],
+      "confidence": 0.9388568997383118,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "11",
+      "bbox": [
+        345,
+        635,
+        32,
+        23
+      ],
+      "confidence": 0.8894438743591309,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0.19",
+      "bbox": [
+        356,
+        646,
+        35,
+        25
+      ],
+      "confidence": 0.998828649520874,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Total Fat",
+      "bbox": [
+        222,
+        645,
+        50,
+        42
+      ],
+      "confidence": 0.9666693806648254,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Saturated Far",
+      "bbox": [
+        244,
+        639,
+        66,
+        52
+      ],
+      "confidence": 0.9615386724472046,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "987 mg",
+      "bbox": [
+        358,
+        661,
+        49,
+        34
+      ],
+      "confidence": 0.9171996116638184,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Trans Fat",
+      "bbox": [
+        266,
+        682,
+        50,
+        47
+      ],
+      "confidence": 0.9922144412994385,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Sodum",
+      "bbox": [
+        268,
+        712,
+        43,
+        43
+      ],
+      "confidence": 0.998491644859314,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "10/-(INCL OF ALLTAXES",
+      "bbox": [
+        310,
+        708,
+        204,
+        72
+      ],
+      "confidence": 0.8455607295036316,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "MApproximate",
+      "bbox": [
+        281,
+        716,
+        63,
+        56
+      ],
+      "confidence": 0.9685578942298889,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Rs. 0.38/-PERg =",
+      "bbox": [
+        396,
+        777,
+        132,
+        35
+      ],
+      "confidence": 0.9346523284912109,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1.3/N30308260",
+      "bbox": [
+        407,
+        798,
+        108,
+        28
+      ],
+      "confidence": 0.9923432469367981,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "UNIT SALE PRICE:",
+      "bbox": [
+        280,
+        777,
+        136,
+        76
+      ],
+      "confidence": 0.99825519323349,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "03/08/26 &16/12/26",
+      "bbox": [
+        407,
+        814,
+        117,
+        35
+      ],
+      "confidence": 0.960011899471283,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NO. OF SERVES",
+      "bbox": [
+        293,
+        818,
+        113,
+        62
+      ],
+      "confidence": 0.9605394601821899,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "PER PACK/ B. NO..",
+      "bbox": [
+        299,
+        837,
+        124,
+        59
+      ],
+      "confidence": 0.891667902469635,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "26.5g (24g+2.5g)",
+      "bbox": [
+        412,
+        851,
+        114,
+        43
+      ],
+      "confidence": 0.9612650871276855,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "MFD &USE BY:",
+      "bbox": [
+        314,
+        883,
+        98,
+        44
+      ],
+      "confidence": 0.9886497855186462,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NET QTY:",
+      "bbox": [
+        320,
+        930,
+        64,
+        37
+      ],
+      "confidence": 0.9884366989135742,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Afin",
+      "bbox": [
+        261,
+        966,
+        35,
+        37
+      ],
+      "confidence": 0.45991456508636475,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OF HLTIES",
+      "bbox": [
+        453,
+        685,
+        66,
+        20
+      ],
+      "confidence": 0.722606611859438,
+      "engine": "easyocr"
+    },
+    {
+      "text": "२#",
+      "bbox": [
+        517,
+        729,
+        20,
+        22
+      ],
+      "confidence": 0.05842862481165065,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Tras",
+      "bbox": [
+        326,
+        674,
+        32,
+        29
+      ],
+      "confidence": 0.5560683608055115,
+      "engine": "easyocr"
+    }
+  ]
+}

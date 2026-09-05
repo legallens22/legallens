@@ -1,0 +1,173 @@
+{
+  "image_id": "label_angled_01.jpg",
+  "image_width": 1152,
+  "image_height": 527,
+  "status": "ok",
+  "blocks": [
+    {
+      "text": "r  ",
+      "bbox": [
+        345,
+        222,
+        249,
+        28
+      ],
+      "confidence": 0.8387759327888489,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "622202\"225512",
+      "bbox": [
+        397,
+        258,
+        147,
+        30
+      ],
+      "confidence": 0.768778115070901,
+      "engine": "easyocr"
+    },
+    {
+      "text": "2512",
+      "bbox": [
+        623,
+        238,
+        89,
+        17
+      ],
+      "confidence": 0.8008759617805481,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "中Qtai",
+      "bbox": [
+        315,
+        251,
+        287,
+        38
+      ],
+      "confidence": 0.4587427079677582,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "00000",
+      "bbox": [
+        939,
+        251,
+        63,
+        25
+      ],
+      "confidence": 0.7388697266578674,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "atiut",
+      "bbox": [
+        338,
+        270,
+        266,
+        32
+      ],
+      "confidence": 0.5671094655990601,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Iffu not",
+      "bbox": [
+        346,
+        287,
+        111,
+        26
+      ],
+      "confidence": 0.6706180572509766,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "s.erg",
+      "bbox": [
+        629,
+        310,
+        113,
+        31
+      ],
+      "confidence": 0.7489680051803589,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "UseBy",
+      "bbox": [
+        628,
+        349,
+        54,
+        22
+      ],
+      "confidence": 0.9239684343338013,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0<0",
+      "bbox": [
+        513,
+        169,
+        42,
+        16
+      ],
+      "confidence": 0.10185328592713241,
+      "engine": "easyocr"
+    },
+    {
+      "text": "o२Uper9",
+      "bbox": [
+        482,
+        192,
+        68,
+        26
+      ],
+      "confidence": 0.09378602677998218,
+      "engine": "easyocr"
+    },
+    {
+      "text": "पUव",
+      "bbox": [
+        723,
+        237,
+        24,
+        16
+      ],
+      "confidence": 0.0386176961443276,
+      "engine": "easyocr"
+    },
+    {
+      "text": "stopstioncoocoinn",
+      "bbox": [
+        613,
+        255,
+        143,
+        45
+      ],
+      "confidence": 0.0178692116541814,
+      "engine": "easyocr"
+    },
+    {
+      "text": "-a",
+      "bbox": [
+        644,
+        380,
+        76,
+        28
+      ],
+      "confidence": 0.06144902180207869,
+      "engine": "easyocr"
+    },
+    {
+      "text": "aeकव",
+      "bbox": [
+        714,
+        216,
+        46,
+        24
+      ],
+      "confidence": 0.007224562112241983,
+      "engine": "easyocr"
+    }
+  ]
+}

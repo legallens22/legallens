@@ -1,1041 +1,920 @@
 {
-  "image_id": "sample_data\\sample_labels\\label_clean_01.jpg",
-  "image_width": 585,
-  "image_height": 711,
+  "image_id": "label_clean_01.jpg",
+  "image_width": 527,
+  "image_height": 641,
   "status": "ok",
   "blocks": [
     {
-      "text": "Ph. Mir. Mid. By. Amcor Hañidwar",
-      "bbox": [
-        12,
-        6,
-        159,
-        21
-      ],
-      "confidence": 0.7849874496459961,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "INDIA HOLDINGS PVT LTD",
-      "bbox": [
-        56,
-        17,
-        177,
-        28
-      ],
-      "confidence": 0.961382269859314,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "DLE OUTAS ENCLAVE PHASE-1",
-      "bbox": [
-        56,
-        28,
-        163,
-        28
-      ],
-      "confidence": 0.7003241777420044,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "02. HARYANA, INDIA",
-      "bbox": [
-        92,
-        41,
-        99,
-        22
-      ],
-      "confidence": 0.9357891082763672,
-      "engine": "paddleocr"
-    },
-    {
       "text": "BURSTING WITHFL",
       "bbox": [
-        373,
-        39,
-        179,
-        22
+        328,
+        9,
+        187,
+        23
       ],
-      "confidence": 0.9902037382125854,
+      "confidence": 0.967374861240387,
       "engine": "paddleocr"
     },
     {
-      "text": "CALL US AT 1800 22 4020",
+      "text": "US AT 1800 22 4020",
       "bbox": [
-        14,
-        55,
-        172,
-        20
+        2,
+        33,
+        132,
+        17
       ],
-      "confidence": 0.9994739890098572,
+      "confidence": 0.9963798522949219,
       "engine": "paddleocr"
     },
     {
       "text": "IN EVERY BITE.",
       "bbox": [
-        449,
-        57,
-        87,
-        13
-      ],
-      "confidence": 0.9609429240226746,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "EMAIL US AT",
-      "bbox": [
-        14,
-        72,
-        94,
+        409,
+        24,
+        86,
         18
       ],
-      "confidence": 0.9971107244491577,
+      "confidence": 0.9730086922645569,
       "engine": "paddleocr"
     },
     {
-      "text": "CONSUMER.FEEDBACK@PEPSICO.COM",
+      "text": "LUSAT",
       "bbox": [
         0,
-        78,
-        259,
-        31
+        47,
+        54,
+        18
       ],
-      "confidence": 0.9974267482757568,
+      "confidence": 0.999805748462677,
       "engine": "paddleocr"
     },
     {
-      "text": "gued on internal grading and quality parameters.",
+      "text": "MER.FEEDBACK@PEPSICO.COM",
+      "bbox": [
+        0,
+        54,
+        210,
+        27
+      ],
+      "confidence": 0.9759354591369629,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "internal grading and quality parameters.",
+      "bbox": [
+        0,
+        74,
+        197,
+        20
+      ],
+      "confidence": 0.9894207119941711,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ARY FOOD - POTATO CHIPS (15.1)",
+      "bbox": [
+        0,
+        86,
+        170,
+        19
+      ],
+      "confidence": 0.9752119183540344,
+      "engine": "paddleocr"
+    },
+    {
+      "text": ": Potalo (2%), Edible Vegetable O",
       "bbox": [
         0,
         96,
-        247,
-        25
+        163,
+        22
       ],
-      "confidence": 0.8862637877464294,
+      "confidence": 0.8663669228553772,
       "engine": "paddleocr"
     },
     {
-      "text": "ENTS: Potato (82%), Edble Vegetable On\".",
+      "text": "Gugar, lodised Selt, Spices and Condiments",
       "bbox": [
-        9,
-        122,
-        201,
-        17
-      ],
-      "confidence": 0.8770037889480591,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "edextrin, Flevour (Natural and Nature Identical Flavouring",
-      "bbox": [
-        2,
-        141,
-        244,
-        20
-      ],
-      "confidence": 0.8892462253570557,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "oning ISugar, lodised Salt, Spices and Condiments.",
-      "bbox": [
-        11,
-        132,
-        220,
-        18
-      ],
-      "confidence": 0.901847779750824,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "Wetances). Lime Juice Powder. Edible Vegetable Oi",
-      "bbox": [
-        1,
-        152,
-        217,
+        0,
+        108,
+        183,
         19
       ],
-      "confidence": 0.8752955794334412,
+      "confidence": 0.9059011340141296,
       "engine": "paddleocr"
     },
     {
-      "text": "unffower Seed Ci), Flavour Enhancers (827, 631)).",
+      "text": "Flavour (Natural and Nature Identical Flavouring",
       "bbox": [
-        1,
-        164,
-        208,
+        0,
+        116,
+        200,
+        22
+      ],
+      "confidence": 0.8725764155387878,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Lime Juice Powder, Edible Vegetable Ol",
+      "bbox": [
+        0,
+        127,
+        173,
+        22
+      ],
+      "confidence": 0.9522002339363098,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ead Ci), Flavour Enhancers (B27. 631)).",
+      "bbox": [
+        0,
+        140,
+        165,
         17
       ],
-      "confidence": 0.9116171002388,
+      "confidence": 0.8760145902633667,
       "engine": "paddleocr"
     },
     {
       "text": "THEOKED & DELICIOUS",
       "bbox": [
-        390,
-        172,
-        188,
-        34
-      ],
-      "confidence": 0.8834726214408875,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "THEUNMISTAKABLEFLAVOUR",
-      "bbox": [
-        394,
-        165,
-        182,
-        21
-      ],
-      "confidence": 0.9820942282676697,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "swouing agent.",
-      "bbox": [
-        1,
+        342,
+        141,
         180,
-        75,
-        14
+        36
       ],
-      "confidence": 0.9204643368721008,
+      "confidence": 0.7963594198226929,
       "engine": "paddleocr"
     },
     {
-      "text": "arow the spocific type of cil used and its saturated fat value.",
+      "text": "agent.",
       "bbox": [
         0,
-        191,
-        255,
-        16
+        156,
+        33,
+        19
       ],
-      "confidence": 0.965351939201355,
+      "confidence": 0.983753502368927,
       "engine": "paddleocr"
     },
     {
       "text": "SEASONED TO PERFECTION",
       "bbox": [
-        426,
-        188,
-        143,
-        27
+        377,
+        158,
+        137,
+        29
       ],
-      "confidence": 0.9694753885269165,
+      "confidence": 0.9607398509979248,
       "engine": "paddleocr"
     },
     {
-      "text": "en the symbiol 0 or a with the last character of batch number",
-      "bbox": [
-        1,
-        201,
-        256,
-        15
-      ],
-      "confidence": 0.9470981359481812,
-      "engine": "paddleocr"
-    },
-    {
-      "text": " à danotes Paimolein and # denotes Rice Bran Ol",
+      "text": "spocific type of lil used and its saturated fat value.",
       "bbox": [
         0,
+        164,
+        210,
+        23
+      ],
+      "confidence": 0.9173722267150879,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "mibol 0 or # with the last character of batch number",
+      "bbox": [
+        0,
+        176,
         211,
-        223,
-        16
+        20
       ],
-      "confidence": 0.9601878523826599,
+      "confidence": 0.9529740810394287,
       "engine": "paddleocr"
     },
     {
-      "text": "TRITIONAL INFORMATIONA",
+      "text": "otes Paimolein and # denotes Rice Bran Ol",
       "bbox": [
         0,
-        232,
-        129,
-        14
+        187,
+        180,
+        21
       ],
-      "confidence": 0.9665725827217102,
+      "confidence": 0.9559350609779358,
       "engine": "paddleocr"
     },
     {
-      "text": "SERVE SIZE 20g*",
-      "bbox": [
-        156,
-        231,
-        79,
-        14
-      ],
-      "confidence": 0.9726573824882507,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "rernts",
+      "text": "AL INFORMATIONAA",
       "bbox": [
         0,
-        250,
-        28,
-        16
+        208,
+        92,
+        21
       ],
-      "confidence": 0.7746376395225525,
+      "confidence": 0.9219260811805725,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "SERVE SIZE 20g",
+      "bbox": [
+        115,
+        208,
+        73,
+        14
+      ],
+      "confidence": 0.9949966669082642,
       "engine": "paddleocr"
     },
     {
       "text": "Per 100 g",
       "bbox": [
-        89,
-        250,
-        48,
-        16
+        50,
+        228,
+        50,
+        18
       ],
-      "confidence": 0.967950165271759,
+      "confidence": 0.9490979313850403,
       "engine": "paddleocr"
     },
     {
       "text": "%RDA Per Serve",
       "bbox": [
-        154,
-        246,
-        79,
-        20
-      ],
-      "confidence": 0.9861981272697449,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "ngv",
-      "bbox": [
-        0,
-        269,
-        19,
+        114,
+        225,
+        75,
         17
       ],
-      "confidence": 0.5347470045089722,
+      "confidence": 0.9599964022636414,
       "engine": "paddleocr"
     },
     {
       "text": "536 kcal",
       "bbox": [
-        92,
-        268,
-        44,
+        56,
+        246,
+        42,
         15
       ],
-      "confidence": 0.9769896268844604,
+      "confidence": 0.9409402012825012,
       "engine": "paddleocr"
     },
     {
       "text": "5%",
       "bbox": [
-        183,
-        267,
-        21,
+        142,
+        243,
+        22,
         16
       ],
-      "confidence": 0.9828767776489258,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "ain",
-      "bbox": [
-        0,
-        285,
-        20,
-        17
-      ],
-      "confidence": 0.8115229606628418,
+      "confidence": 0.9959108829498291,
       "engine": "paddleocr"
     },
     {
       "text": "6.4g",
       "bbox": [
-        97,
-        282,
-        32,
-        19
+        62,
+        263,
+        30,
+        15
       ],
-      "confidence": 0.9942382574081421,
+      "confidence": 0.995352029800415,
       "engine": "paddleocr"
     },
     {
-      "text": "bohycrate",
+      "text": "e",
       "bbox": [
         0,
-        302,
-        48,
+        283,
+        13,
         15
       ],
-      "confidence": 0.9152659177780151,
+      "confidence": 0.24077409505844116,
       "engine": "paddleocr"
     },
     {
       "text": "52.3g",
       "bbox": [
-        98,
-        302,
-        34,
+        62,
+        279,
+        32,
         15
       ],
-      "confidence": 0.9964022636413574,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "Total Sugars",
-      "bbox": [
-        0,
-        318,
-        57,
-        21
-      ],
-      "confidence": 0.9346931576728821,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "3.2g",
-      "bbox": [
-        100,
-        321,
-        30,
-        15
-      ],
-      "confidence": 0.9982962608337402,
+      "confidence": 0.9952034950256348,
       "engine": "paddleocr"
     },
     {
       "text": "LAY'S",
       "bbox": [
-        472,
-        310,
-        79,
-        28
+        418,
+        282,
+        76,
+        29
       ],
-      "confidence": 0.9996379017829895,
+      "confidence": 0.9999338984489441,
       "engine": "paddleocr"
     },
     {
-      "text": "Added Sugars",
+      "text": "gars",
       "bbox": [
-        10,
-        338,
-        66,
-        17
+        0,
+        299,
+        23,
+        19
       ],
-      "confidence": 0.9958530068397522,
+      "confidence": 0.9982995390892029,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "3.2g",
+      "bbox": [
+        64,
+        297,
+        29,
+        16
+      ],
+      "confidence": 0.9983373880386353,
       "engine": "paddleocr"
     },
     {
       "text": "2.6g",
       "bbox": [
-        101,
-        340,
-        29,
+        64,
+        315,
+        28,
         16
       ],
-      "confidence": 0.9953690767288208,
+      "confidence": 0.9774501919746399,
       "engine": "paddleocr"
     },
     {
       "text": "1%",
       "bbox": [
-        186,
-        337,
-        20,
-        17
+        145,
+        313,
+        18,
+        15
       ],
-      "confidence": 0.9989025592803955,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "FINEST POTATOE",
-      "bbox": [
-        402,
-        342,
-        183,
-        30
-      ],
-      "confidence": 0.9854512214660645,
+      "confidence": 0.9995555877685547,
       "engine": "paddleocr"
     },
     {
       "text": "IS MADE WITH",
       "bbox": [
-        468,
-        331,
-        87,
-        17
+        414,
+        306,
+        83,
+        14
       ],
-      "confidence": 0.991893470287323,
+      "confidence": 0.9382722973823547,
       "engine": "paddleocr"
     },
     {
-      "text": "Fat",
+      "text": "d Sugars",
       "bbox": [
         0,
-        359,
-        30,
-        15
+        314,
+        43,
+        21
       ],
-      "confidence": 0.9685577750205994,
+      "confidence": 0.9621254205703735,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "FINEST POTATOE",
+      "bbox": [
+        353,
+        318,
+        174,
+        25
+      ],
+      "confidence": 0.9697499871253967,
       "engine": "paddleocr"
     },
     {
       "text": "33.5g",
       "bbox": [
-        100,
-        359,
-        33,
-        15
+        62,
+        334,
+        34,
+        17
       ],
-      "confidence": 0.9992440938949585,
+      "confidence": 0.9976183176040649,
       "engine": "paddleocr"
     },
     {
       "text": "10%",
       "bbox": [
-        184,
-        358,
-        25,
-        16
+        142,
+        332,
+        24,
+        15
       ],
-      "confidence": 0.9999833106994629,
+      "confidence": 0.9960465431213379,
       "engine": "paddleocr"
     },
     {
-      "text": "Salurated Fat",
+      "text": "ed Fat",
       "bbox": [
-        6,
-        376,
-        62,
-        14
+        0,
+        350,
+        34,
+        19
       ],
-      "confidence": 0.8158437013626099,
+      "confidence": 0.9387863278388977,
       "engine": "paddleocr"
     },
     {
-      "text": "15.1 gº",
+      "text": "15.1 go",
       "bbox": [
-        96,
-        373,
-        39,
-        18
+        60,
+        350,
+        36,
+        15
       ],
-      "confidence": 0.869102418422699,
+      "confidence": 0.9089816808700562,
       "engine": "paddleocr"
     },
     {
       "text": "14%",
       "bbox": [
-        182,
-        374,
-        28,
+        139,
+        347,
+        29,
         15
       ],
-      "confidence": 0.981044590473175,
+      "confidence": 0.9885898232460022,
       "engine": "paddleocr"
     },
     {
       "text": "OR",
       "bbox": [
-        108,
-        388,
+        66,
+        362,
+        24,
+        12
+      ],
+      "confidence": 0.9993993043899536,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        142,
+        358,
         21,
         12
       ],
-      "confidence": 0.9996525049209595,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "OR",
-      "bbox": [
-        185,
-        385,
-        21,
-        14
-      ],
-      "confidence": 0.9996964931488037,
+      "confidence": 0.9994058609008789,
       "engine": "paddleocr"
     },
     {
       "text": "pepsico",
       "bbox": [
-        475,
-        381,
-        106,
+        420,
+        353,
+        104,
         25
       ],
-      "confidence": 0.9999418258666992,
+      "confidence": 0.9998881220817566,
       "engine": "paddleocr"
     },
     {
-      "text": "7.7 g",
+      "text": "7.7g",
       "bbox": [
-        101,
-        398,
-        32,
+        62,
+        372,
+        31,
         15
       ],
-      "confidence": 0.9541493654251099,
+      "confidence": 0.9785527586936951,
       "engine": "paddleocr"
     },
     {
-      "text": "7%",
+      "text": "7 %",
       "bbox": [
-        183,
-        395,
-        25,
-        16
+        139,
+        367,
+        26,
+        15
       ],
-      "confidence": 0.9919374585151672,
+      "confidence": 0.8040098547935486,
       "engine": "paddleocr"
     },
     {
       "text": "1%",
       "bbox": [
-        186,
-        411,
-        21,
-        17
+        144,
+        383,
+        18,
+        14
       ],
-      "confidence": 0.9996978044509888,
+      "confidence": 0.9996592998504639,
       "engine": "paddleocr"
     },
     {
       "text": "Food. Drinks. Smiles",
       "bbox": [
-        475,
+        421,
+        376,
+        76,
+        11
+      ],
+      "confidence": 0.9316083192825317,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "at",
+      "bbox": [
+        0,
+        390,
+        11,
+        15
+      ],
+      "confidence": 0.9826209545135498,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0.19",
+      "bbox": [
+        63,
+        386,
+        30,
+        16
+      ],
+      "confidence": 0.9992659091949463,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Mfg. & Mkt. by: PEPSICO INDIA HOLDINGS ",
+      "bbox": [
+        329,
+        390,
+        197,
+        14
+      ],
+      "confidence": 0.9459292888641357,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "987mg",
+      "bbox": [
+        57,
         403,
-        79,
-        12
-      ],
-      "confidence": 0.9476889371871948,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "Taa Fat",
-      "bbox": [
-        12,
-        413,
-        37,
-        19
-      ],
-      "confidence": 0.7774174809455872,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "0.1g",
-      "bbox": [
-        103,
-        414,
-        29,
-        15
-      ],
-      "confidence": 0.9138244986534119,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "Mfg. & Mkt. by: PEPSICO INDIA HOLDINGS PV",
-      "bbox": [
-        377,
-        417,
-        208,
-        18
-      ],
-      "confidence": 0.9774202704429626,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "Sodum",
-      "bbox": [
-        5,
-        435,
-        31,
-        15
-      ],
-      "confidence": 0.8201335072517395,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "987 mg",
-      "bbox": [
-        98,
-        431,
         38,
         15
       ],
-      "confidence": 0.9357383847236633,
+      "confidence": 0.9940437078475952,
       "engine": "paddleocr"
     },
     {
       "text": "10%",
       "bbox": [
-        185,
-        429,
-        24,
-        17
+        140,
+        400,
+        25,
+        16
       ],
-      "confidence": 0.99980229139328,
+      "confidence": 0.9999456405639648,
       "engine": "paddleocr"
     },
     {
-      "text": "fssai",
+      "text": "Issai",
       "bbox": [
-        434,
-        437,
+        381,
+        407,
         48,
-        24
-      ],
-      "confidence": 0.9710503816604614,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "\"Approumale Values",
-      "bbox": [
-        7,
-        450,
-        83,
-        21
-      ],
-      "confidence": 0.8448778390884399,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "Mkt. Lc. No. d",
-      "bbox": [
-        376,
-        456,
-        126,
-        21
-      ],
-      "confidence": 0.6494526863098145,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "Rast<20 goangie consumption pack.",
-      "bbox": [
-        5,
-        475,
-        154,
-        20
-      ],
-      "confidence": 0.8263760805130005,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "For Mk. Address scan Barcode va Smart Consumer A",
-      "bbox": [
-        376,
-        469,
-        208,
-        19
-      ],
-      "confidence": 0.864403247833252,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "For Manudacturer's Lic. No., see frst two characens clbe",
-      "bbox": [
-        375,
-        481,
-        210,
-        19
-      ],
-      "confidence": 0.860560953617096,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "MRPRs. 10/- (INCL. OF ALL TAXES)",
-      "bbox": [
-        4,
-        500,
-        228,
-        27
-      ],
-      "confidence": 0.948839008808136,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "N1: Lic. No. 10012063000110 N2: Lic. No. 10012022",
-      "bbox": [
-        373,
-        498,
-        211,
-        23
-      ],
-      "confidence": 0.9536591172218323,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "below:",
-      "bbox": [
-        376,
-        497,
-        26,
-        11
-      ],
-      "confidence": 0.9942079186439514,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "N3: Lic. No: 10012031000120 N4: Lic. No. 12721996",
-      "bbox": [
-        372,
-        510,
-        213,
         22
       ],
-      "confidence": 0.9391182065010071,
+      "confidence": 0.8685862421989441,
       "engine": "paddleocr"
     },
     {
-      "text": "MIT SALE PRICE:",
+      "text": "male Values",
       "bbox": [
         0,
-        550,
-        96,
-        25
+        419,
+        52,
+        22
       ],
-      "confidence": 0.8616722226142883,
+      "confidence": 0.9426915645599365,
       "engine": "paddleocr"
     },
     {
-      "text": "Rs. 0.38/- PER g",
+      "text": "Mkt. Lic. No. J1dO4",
       "bbox": [
-        88,
-        549,
-        111,
-        22
+        327,
+        428,
+        122,
+        14
       ],
-      "confidence": 0.9420030117034912,
+      "confidence": 0.7615730166435242,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "oarg consumption pack",
+      "bbox": [
+        0,
+        443,
+        117,
+        21
+      ],
+      "confidence": 0.8662705421447754,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For Mkl. Address. scan Barcoda via Smart Consumar",
+      "bbox": [
+        327,
+        440,
+        199,
+        13
+      ],
+      "confidence": 0.8720581531524658,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For Manulacturer's Lic. No. see fist two characns c",
+      "bbox": [
+        327,
+        452,
+        199,
+        13
+      ],
+      "confidence": 0.8098827600479126,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "s. 10/- (INCL. OF ALL TAXES)",
+      "bbox": [
+        0,
+        466,
+        187,
+        26
+      ],
+      "confidence": 0.9427364468574524,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "N1: Lic. No. 10012063000110 N2: Lic. No. 1001202",
+      "bbox": [
+        325,
+        469,
+        201,
+        15
+      ],
+      "confidence": 0.9599339365959167,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NS: Lic. No. 10012031000120 N4: Lic. No. 1272199",
+      "bbox": [
+        326,
+        482,
+        200,
+        14
+      ],
+      "confidence": 0.9367642402648926,
       "engine": "paddleocr"
     },
     {
       "text": "*For details on PepsiCo",
       "bbox": [
-        457,
-        544,
-        122,
-        21
+        412,
+        514,
+        112,
+        14
       ],
-      "confidence": 0.9915189146995544,
+      "confidence": 0.9858580827713013,
       "engine": "paddleocr"
     },
     {
       "text": "1.3/N30308260",
       "bbox": [
-        93,
-        567,
-        121,
-        17
+        50,
+        529,
+        122,
+        20
       ],
-      "confidence": 0.9833654761314392,
+      "confidence": 0.9896517992019653,
       "engine": "paddleocr"
     },
     {
-      "text": "partnership with farmes",
+      "text": "partnership with farmen",
       "bbox": [
-        460,
-        559,
-        122,
-        18
+        415,
+        528,
+        111,
+        13
       ],
-      "confidence": 0.9941208958625793,
+      "confidence": 0.9669623374938965,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "RVES",
+      "bbox": [
+        0,
+        547,
+        36,
+        20
+      ],
+      "confidence": 0.9999276399612427,
       "engine": "paddleocr"
     },
     {
       "text": "03/08/26&16/12/26",
       "bbox": [
-        91,
-        581,
-        130,
+        48,
+        544,
+        132,
         21
       ],
-      "confidence": 0.9998180270195007,
+      "confidence": 0.9996846318244934,
       "engine": "paddleocr"
     },
     {
-      "text": "visit www.pepsicoindia",
+      "text": "visit www.pepsicoinda",
       "bbox": [
-        460,
+        414,
+        540,
+        112,
+        13
+      ],
+      "confidence": 0.992533266544342,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "/B.NO.:",
+      "bbox": [
+        0,
+        561,
+        55,
+        21
+      ],
+      "confidence": 0.9957529902458191,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "26.5g(24g+2.5g)",
+      "bbox": [
+        50,
         572,
-        122,
-        19
-      ],
-      "confidence": 0.9761254787445068,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "NO. OF SERVES",
-      "bbox": [
-        0,
-        584,
-        78,
-        23
-      ],
-      "confidence": 0.892535924911499,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "ER PACK/B.NO.:",
-      "bbox": [
-        0,
-        600,
-        95,
-        23
-      ],
-      "confidence": 0.9663000106811523,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "26.5g (24g+2.5g)",
-      "bbox": [
-        91,
-        609,
         126,
-        26
+        24
       ],
-      "confidence": 0.9816569685935974,
+      "confidence": 0.9688613414764404,
       "engine": "paddleocr"
     },
     {
-      "text": "facobook.comlay",
+      "text": "tacobook.com/laya",
       "bbox": [
-        445,
-        606,
-        96,
-        18
+        403,
+        570,
+        82,
+        17
       ],
-      "confidence": 0.7256672978401184,
+      "confidence": 0.6611184477806091,
       "engine": "paddleocr"
     },
     {
       "text": "Find us on:",
       "bbox": [
-        446,
-        602,
-        42,
-        13
+        406,
+        566,
+        38,
+        11
       ],
-      "confidence": 0.8818796277046204,
+      "confidence": 0.9646652340888977,
       "engine": "paddleocr"
     },
     {
-      "text": "FD & USE BY:",
+      "text": "TK",
       "bbox": [
-        0,
-        629,
-        79,
-        25
+        494,
+        571,
+        17,
+        12
       ],
-      "confidence": 0.9935235977172852,
+      "confidence": 0.3036315441131592,
       "engine": "paddleocr"
     },
     {
-      "text": "ET QTY:",
+      "text": "EBY:",
       "bbox": [
         0,
-        661,
-        48,
-        18
+        589,
+        40,
+        22
       ],
-      "confidence": 0.9644277691841125,
+      "confidence": 0.9995263814926147,
       "engine": "paddleocr"
     },
     {
       "text": "8901401981538",
       "bbox": [
-        360,
-        660,
-        149,
-        25
+        322,
+        615,
+        150,
+        26
       ],
-      "confidence": 0.99358069896698,
+      "confidence": 0.9946110844612122,
       "engine": "paddleocr"
     },
     {
-      "text": "77581",
+      "text": "t10-",
       "bbox": [
-        241,
-        692,
+        394,
+        290,
+        28,
+        8
+      ],
+      "confidence": 0.03703891113400459,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Prelues",
+      "bbox": [
+        23,
+        407,
         30,
-        15
-      ],
-      "confidence": 0.9549260139465332,
-      "engine": "paddleocr"
-    },
-    {
-      "text": "BURSTING WIYTEL",
-      "bbox": [
-        335,
-        71,
-        144,
-        20
-      ],
-      "confidence": 0.44597009733125326,
-      "engine": "easyocr"
-    },
-    {
-      "text": "LAYS",
-      "bbox": [
-        411,
-        301,
-        63,
-        28
-      ],
-      "confidence": 0.9998331317496498,
-      "engine": "easyocr"
-    },
-    {
-      "text": "0)440.11.",
-      "bbox": [
-        337,
-        441,
-        46,
-        12
-      ],
-      "confidence": 0.0017543018752689734,
-      "engine": "easyocr"
-    },
-    {
-      "text": "COSLT plDT PJel",
-      "bbox": [
-        72,
-        462,
-        73,
         14
       ],
-      "confidence": 0.046856327025506954,
+      "confidence": 0.036792856304005576,
       "engine": "easyocr"
     },
     {
-      "text": "Laly",
+      "text": "LN",
       "bbox": [
-        339,
-        473,
-        22,
-        12
+        325,
+        405,
+        30,
+        14
       ],
-      "confidence": 0.1301971822977066,
+      "confidence": 0.4464192730293143,
+      "engine": "easyocr"
+    },
+    {
+      "text": "0785\"",
+      "bbox": [
+        336,
+        418,
+        28,
+        8
+      ],
+      "confidence": 0.16675810275721792,
+      "engine": "easyocr"
+    },
+    {
+      "text": "coampion pack",
+      "bbox": [
+        44,
+        426,
+        73,
+        18
+      ],
+      "confidence": 0.07697484022978218,
+      "engine": "easyocr"
+    },
+    {
+      "text": "VFoा detai5 O७ Pa5GU",
+      "bbox": [
+        389,
+        493,
+        102,
+        16
+      ],
+      "confidence": 0.039216240704806685,
+      "engine": "easyocr"
+    },
+    {
+      "text": "ILE PRICE: Ns 0 ३९ :",
+      "bbox": [
+        0,
+        496,
+        118,
+        30
+      ],
+      "confidence": 0.09588181547391855,
       "engine": "easyocr"
     },
     {
       "text": "=३",
       "bbox": [
-        190,
-        528,
-        28,
+        160,
+        494,
+        30,
         30
       ],
-      "confidence": 0.3250268881287865,
+      "confidence": 0.5959774267414572,
       "engine": "easyocr"
     },
     {
-      "text": "hmilnt",
+      "text": "Tl:",
       "bbox": [
-        450,
-        592,
-        36,
-        8
+        0,
+        613,
+        21,
+        14
       ],
-      "confidence": 0.06546230392783572,
+      "confidence": 0.08772448321111415,
       "engine": "easyocr"
     }
   ]

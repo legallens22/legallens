@@ -1,0 +1,1053 @@
+{
+  "image_id": "label_clean_03.jpg",
+  "image_width": 864,
+  "image_height": 1152,
+  "status": "ok",
+  "blocks": [
+    {
+      "text": "2注总",
+      "bbox": [
+        233,
+        37,
+        74,
+        74
+      ],
+      "confidence": 0.45425739884376526,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Pap",
+      "bbox": [
+        278,
+        35,
+        32,
+        28
+      ],
+      "confidence": 0.8042141795158386,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "previou",
+      "bbox": [
+        360,
+        46,
+        66,
+        32
+      ],
+      "confidence": 0.9812631011009216,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "W/s JDB",
+      "bbox": [
+        287,
+        26,
+        53,
+        58
+      ],
+      "confidence": 0.7728937268257141,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Shree Krishan",
+      "bbox": [
+        302,
+        18,
+        73,
+        80
+      ],
+      "confidence": 0.9926689863204956,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Limited perio",
+      "bbox": [
+        345,
+        61,
+        106,
+        46
+      ],
+      "confidence": 0.9568461179733276,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ey",
+      "bbox": [
+        291,
+        92,
+        20,
+        18
+      ],
+      "confidence": 0.2191975712776184,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "packs.",
+      "bbox": [
+        304,
+        80,
+        56,
+        34
+      ],
+      "confidence": 0.9861023426055908,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "graphies.",
+      "bbox": [
+        286,
+        101,
+        66,
+        32
+      ],
+      "confidence": 0.922362744808197,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Ssoning (MkSolids,MaodeSp",
+      "bbox": [
+        272,
+        131,
+        274,
+        41
+      ],
+      "confidence": 0.5596309900283813,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "oen,ldedSaBackSaFlavoua",
+      "bbox": [
+        274,
+        152,
+        290,
+        35
+      ],
+      "confidence": 0.5722948908805847,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "and Nature Identical Flavouring Substances), Acidity",
+      "bbox": [
+        275,
+        172,
+        280,
+        31
+      ],
+      "confidence": 0.8399047255516052,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Regulators (296, 330, 334), Sugar Yeast Extract)",
+      "bbox": [
+        276,
+        191,
+        267,
+        30
+      ],
+      "confidence": 0.9421074986457825,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Allkar",
+      "bbox": [
+        774,
+        204,
+        49,
+        18
+      ],
+      "confidence": 0.8068599104881287,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "As flavouring agent.",
+      "bbox": [
+        278,
+        219,
+        111,
+        21
+      ],
+      "confidence": 0.975790798664093,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "5",
+      "bbox": [
+        808,
+        221,
+        41,
+        18
+      ],
+      "confidence": 0.26121068000793457,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "aua",
+      "bbox": [
+        516,
+        252,
+        44,
+        30
+      ],
+      "confidence": 0.9561604398676885,
+      "engine": "easyocr"
+    },
+    {
+      "text": "\"Bole Mer",
+      "bbox": [
+        777,
+        239,
+        80,
+        24
+      ],
+      "confidence": 0.7778480648994446,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "fat value, match the symbol  or # with the last",
+      "bbox": [
+        277,
+        255,
+        252,
+        20
+      ],
+      "confidence": 0.9657090902328491,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "It",
+      "bbox": [
+        808,
+        253,
+        46,
+        20
+      ],
+      "confidence": 0.6645959615707397,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Sugar",
+      "bbox": [
+        439,
+        283,
+        32,
+        14
+      ],
+      "confidence": 0.9837489643117348,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Uncle C",
+      "bbox": [
+        780,
+        265,
+        73,
+        29
+      ],
+      "confidence": 0.8451942801475525,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "and # denotes Rice Bran Oil.",
+      "bbox": [
+        276,
+        285,
+        160,
+        23
+      ],
+      "confidence": 0.9784167408943176,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ALLERGEN ADVICE: Contains Milk",
+      "bbox": [
+        277,
+        303,
+        203,
+        25
+      ],
+      "confidence": 0.9995930194854736,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NUTRITIONAL INFORMATION",
+      "bbox": [
+        283,
+        332,
+        142,
+        21
+      ],
+      "confidence": 0.9917007684707642,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "SERVE SIZE 20 g**",
+      "bbox": [
+        459,
+        331,
+        88,
+        28
+      ],
+      "confidence": 0.9444711208343506,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Nutrients",
+      "bbox": [
+        283,
+        359,
+        53,
+        22
+      ],
+      "confidence": 0.9994786381721497,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Per 100g",
+      "bbox": [
+        400,
+        356,
+        55,
+        27
+      ],
+      "confidence": 0.9462031126022339,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "%RDA Per Serve",
+      "bbox": [
+        467,
+        359,
+        81,
+        25
+      ],
+      "confidence": 0.9906660318374634,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Uncle Chipps and",
+      "bbox": [
+        706,
+        332,
+        154,
+        49
+      ],
+      "confidence": 0.9697099924087524,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "trademares of PepsiCo",
+      "bbox": [
+        707,
+        356,
+        157,
+        46
+      ],
+      "confidence": 0.8760849833488464,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Energy",
+      "bbox": [
+        287,
+        383,
+        41,
+        24
+      ],
+      "confidence": 0.9998990893363953,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "536 kcal",
+      "bbox": [
+        406,
+        382,
+        46,
+        23
+      ],
+      "confidence": 0.9803774356842041,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "5%",
+      "bbox": [
+        495,
+        386,
+        23,
+        23
+      ],
+      "confidence": 0.9997478723526001,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For detalis o",
+      "bbox": [
+        777,
+        386,
+        87,
+        28
+      ],
+      "confidence": 0.8912674188613892,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Protein",
+      "bbox": [
+        290,
+        407,
+        41,
+        23
+      ],
+      "confidence": 0.987932562828064,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "6.8g",
+      "bbox": [
+        416,
+        405,
+        31,
+        24
+      ],
+      "confidence": 0.9962923526763916,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Carbohydrate",
+      "bbox": [
+        294,
+        431,
+        69,
+        21
+      ],
+      "confidence": 0.997871458530426,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "5429",
+      "bbox": [
+        411,
+        425,
+        42,
+        32
+      ],
+      "confidence": 0.9779641628265381,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Total Sugars",
+      "bbox": [
+        310,
+        456,
+        63,
+        21
+      ],
+      "confidence": 0.9554070830345154,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "5-29",
+      "bbox": [
+        437,
+        463,
+        28,
+        14
+      ],
+      "confidence": 0.905543863773346,
+      "engine": "easyocr"
+    },
+    {
+      "text": "中",
+      "bbox": [
+        799,
+        447,
+        65,
+        67
+      ],
+      "confidence": 0.1414603888988495,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Addeds",
+      "bbox": [
+        323,
+        479,
+        44,
+        22
+      ],
+      "confidence": 0.9455356597900391,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0.3g",
+      "bbox": [
+        419,
+        478,
+        32,
+        25
+      ],
+      "confidence": 0.9543667435646057,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0.1%",
+      "bbox": [
+        495,
+        485,
+        28,
+        21
+      ],
+      "confidence": 0.9998059868812561,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Total Fn",
+      "bbox": [
+        299,
+        500,
+        47,
+        26
+      ],
+      "confidence": 0.8151698708534241,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "32.4g",
+      "bbox": [
+        418,
+        501,
+        37,
+        24
+      ],
+      "confidence": 0.9805620908737183,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "10%",
+      "bbox": [
+        497,
+        506,
+        26,
+        22
+      ],
+      "confidence": 0.9782254695892334,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "14.8g",
+      "bbox": [
+        417,
+        520,
+        42,
+        28
+      ],
+      "confidence": 0.9504320025444031,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Mkt. by: PepaCa",
+      "bbox": [
+        714,
+        513,
+        139,
+        31
+      ],
+      "confidence": 0.8577279448509216,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "g8",
+      "bbox": [
+        498,
+        527,
+        27,
+        47
+      ],
+      "confidence": 0.44075748324394226,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "7.4 ga",
+      "bbox": [
+        421,
+        550,
+        36,
+        23
+      ],
+      "confidence": 0.863962709903717,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        423,
+        541,
+        24,
+        16
+      ],
+      "confidence": 0.983139157295227,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ssai",
+      "bbox": [
+        776,
+        548,
+        56,
+        31
+      ],
+      "confidence": 0.9351303577423096,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0.1g",
+      "bbox": [
+        419,
+        573,
+        33,
+        22
+      ],
+      "confidence": 0.9905495047569275,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1%",
+      "bbox": [
+        501,
+        578,
+        20,
+        19
+      ],
+      "confidence": 0.9989780783653259,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Mkt. Lic. No. 10214",
+      "bbox": [
+        713,
+        572,
+        140,
+        29
+      ],
+      "confidence": 0.8704749941825867,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "897 mg",
+      "bbox": [
+        408,
+        590,
+        47,
+        27
+      ],
+      "confidence": 0.9061062932014465,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "9%",
+      "bbox": [
+        499,
+        598,
+        21,
+        19
+      ],
+      "confidence": 0.9987066388130188,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For",
+      "bbox": [
+        705,
+        607,
+        22,
+        14
+      ],
+      "confidence": 0.935907440055923,
+      "engine": "easyocr"
+    },
+    {
+      "text": "omate Vatues",
+      "bbox": [
+        322,
+        615,
+        69,
+        23
+      ],
+      "confidence": 0.8473556041717529,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ana",
+      "bbox": [
+        705,
+        619,
+        24,
+        14
+      ],
+      "confidence": 0.9717213007971218,
+      "engine": "easyocr"
+    },
+    {
+      "text": "\"Pack <20 g is a single consumption pack",
+      "bbox": [
+        289,
+        639,
+        228,
+        24
+      ],
+      "confidence": 0.9266727566719055,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For feedback ",
+      "bbox": [
+        710,
+        634,
+        129,
+        26
+      ],
+      "confidence": 0.9579830169677734,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "and Manufactum",
+      "bbox": [
+        708,
+        651,
+        126,
+        26
+      ],
+      "confidence": 0.917403519153595,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "MRP Rs. 10/- (INCL OF ALL TAXES)",
+      "bbox": [
+        279,
+        670,
+        269,
+        35
+      ],
+      "confidence": 0.9754754304885864,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "THE CONSUM",
+      "bbox": [
+        706,
+        668,
+        114,
+        35
+      ],
+      "confidence": 0.9588108062744141,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "AT",
+      "bbox": [
+        699,
+        717,
+        22,
+        20
+      ],
+      "confidence": 0.9979481498703136,
+      "engine": "easyocr"
+    },
+    {
+      "text": "WIT SALE PRICE:",
+      "bbox": [
+        274,
+        733,
+        120,
+        34
+      ],
+      "confidence": 0.8939794898033142,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "P.O.BOX27,D",
+      "bbox": [
+        701,
+        724,
+        133,
+        27
+      ],
+      "confidence": 0.9231882691383362,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "GURUGRAM-12200",
+      "bbox": [
+        697,
+        745,
+        149,
+        27
+      ],
+      "confidence": 0.969254195690155,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1.3/N32807260",
+      "bbox": [
+        430,
+        773,
+        135,
+        31
+      ],
+      "confidence": 0.9998125433921814,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OR CALL US AT 1800",
+      "bbox": [
+        694,
+        767,
+        170,
+        28
+      ],
+      "confidence": 0.9558439254760742,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NO. OF SERVES",
+      "bbox": [
+        267,
+        780,
+        106,
+        36
+      ],
+      "confidence": 0.9853715896606445,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "28/07/26 &25/11/26",
+      "bbox": [
+        425,
+        789,
+        151,
+        44
+      ],
+      "confidence": 0.9489299058914185,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ATCONSUMER.FEEDB",
+      "bbox": [
+        688,
+        788,
+        176,
+        30
+      ],
+      "confidence": 0.9985727667808533,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "PER PACK/ B. NO.:",
+      "bbox": [
+        266,
+        806,
+        124,
+        33
+      ],
+      "confidence": 0.9867244958877563,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Uncle",
+      "bbox": [
+        774,
+        818,
+        87,
+        29
+      ],
+      "confidence": 0.9998677372932434,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "26.5g (18.5g+8gEXTRA)",
+      "bbox": [
+        421,
+        837,
+        155,
+        47
+      ],
+      "confidence": 0.9372267723083496,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "MFD & USE BY:",
+      "bbox": [
+        258,
+        848,
+        111,
+        45
+      ],
+      "confidence": 0.9987713694572449,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Chipps",
+      "bbox": [
+        760,
+        841,
+        99,
+        29
+      ],
+      "confidence": 0.9997392296791077,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "T7",
+      "bbox": [
+        60,
+        855,
+        26,
+        20
+      ],
+      "confidence": 0.7234101295471191,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NET QTY:",
+      "bbox": [
+        250,
+        896,
+        82,
+        54
+      ],
+      "confidence": 0.997666597366333,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "UncleChpaat",
+      "bbox": [
+        683,
+        401,
+        84,
+        26
+      ],
+      "confidence": 0.19975188455546794,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Aodels",
+      "bbox": [
+        359,
+        503,
+        36,
+        16
+      ],
+      "confidence": 0.07905208430781231,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Toa E",
+      "bbox": [
+        343,
+        521,
+        28,
+        16
+      ],
+      "confidence": 0.48869123893451993,
+      "engine": "easyocr"
+    },
+    {
+      "text": "0_9",
+      "bbox": [
+        447,
+        567,
+        24,
+        14
+      ],
+      "confidence": 0.3330478291679683,
+      "engine": "easyocr"
+    },
+    {
+      "text": "single consumpaon",
+      "bbox": [
+        415,
+        615,
+        96,
+        14
+      ],
+      "confidence": 0.8530645096582404,
+      "engine": "easyocr"
+    },
+    {
+      "text": "१lolpapyisp",
+      "bbox": [
+        462,
+        708,
+        142,
+        50
+      ],
+      "confidence": 0.0014970580802220993,
+      "engine": "easyocr"
+    },
+    {
+      "text": "0",
+      "bbox": [
+        136,
+        856,
+        26,
+        40
+      ],
+      "confidence": 0.34828215659249295,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Potulo |",
+      "bbox": [
+        379,
+        237,
+        38,
+        17
+      ],
+      "confidence": 0.6217783103326705,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Deroles",
+      "bbox": [
+        341,
+        360,
+        42,
+        18
+      ],
+      "confidence": 0.2683408321336155,
+      "engine": "easyocr"
+    },
+    {
+      "text": "ALLERGEN",
+      "bbox": [
+        316,
+        374,
+        60,
+        25
+      ],
+      "confidence": 0.9924482689017079,
+      "engine": "easyocr"
+    },
+    {
+      "text": "NUTFITIONL|",
+      "bbox": [
+        322,
+        396,
+        60,
+        22
+      ],
+      "confidence": 0.18503193685910624,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Dac-",
+      "bbox": [
+        507,
+        611,
+        30,
+        15
+      ],
+      "confidence": 0.4034837782382965,
+      "engine": "easyocr"
+    }
+  ]
+}

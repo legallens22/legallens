@@ -1,0 +1,1009 @@
+{
+  "image_id": "label_clean_02.jpg",
+  "image_width": 527,
+  "image_height": 665,
+  "status": "ok",
+  "blocks": [
+    {
+      "text": "AT 1800 22 4020",
+      "bbox": [
+        0,
+        3,
+        123,
+        22
+      ],
+      "confidence": 0.9481298923492432,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "SAT",
+      "bbox": [
+        0,
+        18,
+        37,
+        19
+      ],
+      "confidence": 0.9993029236793518,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "FEEDBACK@PEPSICO.COM",
+      "bbox": [
+        0,
+        26,
+        204,
+        28
+      ],
+      "confidence": 0.9732545018196106,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "nal grading and quality param",
+      "bbox": [
+        0,
+        47,
+        161,
+        16
+      ],
+      "confidence": 0.9477260708808899,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "FOOD - POTATO CHIPS (15.1)",
+      "bbox": [
+        0,
+        57,
+        161,
+        18
+      ],
+      "confidence": 0.9538834691047668,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Natural and Nature dentical Flavouring",
+      "bbox": [
+        0,
+        87,
+        196,
+        22
+      ],
+      "confidence": 0.8906936645507812,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Juce Powder: Edible Vegetable O",
+      "bbox": [
+        0,
+        98,
+        166,
+        22
+      ],
+      "confidence": 0.934066891670227,
+      "engine": "paddleocr"
+    },
+    {
+      "text": " Flevour Enhancers (827. 631).",
+      "bbox": [
+        0,
+        110,
+        157,
+        19
+      ],
+      "confidence": 0.8672848343849182,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "THEOKED & DELICIOL",
+      "bbox": [
+        340,
+        114,
+        187,
+        47
+      ],
+      "confidence": 0.8444578647613525,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "THE UNMISTAKABLEFLAVOUR",
+      "bbox": [
+        344,
+        108,
+        175,
+        30
+      ],
+      "confidence": 0.9581978917121887,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "dic ype of ol used and its saturaled fat value",
+      "bbox": [
+        0,
+        135,
+        201,
+        18
+      ],
+      "confidence": 0.9369093775749207,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "SEASONED TO PERFECTION",
+      "bbox": [
+        380,
+        135,
+        139,
+        35
+      ],
+      "confidence": 0.996983528137207,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "or # with the last character of batch number",
+      "bbox": [
+        0,
+        143,
+        206,
+        22
+      ],
+      "confidence": 0.9795570969581604,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "rolein and # denotes Rice Bran Ol.",
+      "bbox": [
+        4,
+        155,
+        167,
+        20
+      ],
+      "confidence": 0.9178434610366821,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ORNATIONA",
+      "bbox": [
+        0,
+        180,
+        70,
+        14
+      ],
+      "confidence": 0.9376819133758545,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "SERVE SIZE 20g",
+      "bbox": [
+        97,
+        176,
+        84,
+        17
+      ],
+      "confidence": 0.9950789213180542,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Per 100 g",
+      "bbox": [
+        27,
+        198,
+        53,
+        18
+      ],
+      "confidence": 0.9723811745643616,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "%RDA Per Serve",
+      "bbox": [
+        95,
+        195,
+        84,
+        17
+      ],
+      "confidence": 0.9898289442062378,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "536 kcal",
+      "bbox": [
+        31,
+        217,
+        45,
+        15
+      ],
+      "confidence": 0.8736907839775085,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "5%",
+      "bbox": [
+        125,
+        215,
+        23,
+        17
+      ],
+      "confidence": 0.9997793436050415,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "6.4g",
+      "bbox": [
+        39,
+        234,
+        31,
+        15
+      ],
+      "confidence": 0.9979018568992615,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "52.3g",
+      "bbox": [
+        37,
+        250,
+        35,
+        15
+      ],
+      "confidence": 0.9449710845947266,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "3.2g",
+      "bbox": [
+        39,
+        269,
+        31,
+        16
+      ],
+      "confidence": 0.9960753917694092,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "LAY'S",
+      "bbox": [
+        422,
+        265,
+        76,
+        29
+      ],
+      "confidence": 0.9998903274536133,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "rs",
+      "bbox": [
+        0,
+        290,
+        14,
+        13
+      ],
+      "confidence": 0.8239386081695557,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "2.6g",
+      "bbox": [
+        38,
+        287,
+        32,
+        16
+      ],
+      "confidence": 0.9699469804763794,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1%",
+      "bbox": [
+        124,
+        284,
+        24,
+        20
+      ],
+      "confidence": 0.9996625185012817,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "FINEST POTATO",
+      "bbox": [
+        352,
+        293,
+        175,
+        39
+      ],
+      "confidence": 0.9988371729850769,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "IS MADE WITH",
+      "bbox": [
+        419,
+        285,
+        83,
+        20
+      ],
+      "confidence": 0.9448321461677551,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "33.5g",
+      "bbox": [
+        35,
+        305,
+        38,
+        18
+      ],
+      "confidence": 0.9995719790458679,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "10%",
+      "bbox": [
+        124,
+        306,
+        25,
+        17
+      ],
+      "confidence": 0.9999713897705078,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "15.1g",
+      "bbox": [
+        31,
+        319,
+        43,
+        21
+      ],
+      "confidence": 0.9969595074653625,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "14%",
+      "bbox": [
+        119,
+        320,
+        33,
+        19
+      ],
+      "confidence": 0.9968025088310242,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "7.7g",
+      "bbox": [
+        32,
+        341,
+        39,
+        21
+      ],
+      "confidence": 0.8675927519798279,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        42,
+        334,
+        25,
+        12
+      ],
+      "confidence": 0.9994749426841736,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        122,
+        332,
+        24,
+        15
+      ],
+      "confidence": 0.9976910352706909,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "7%",
+      "bbox": [
+        121,
+        344,
+        28,
+        16
+      ],
+      "confidence": 0.9867805242538452,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "pepsico",
+      "bbox": [
+        425,
+        335,
+        102,
+        28
+      ],
+      "confidence": 0.999014675617218,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0.19",
+      "bbox": [
+        33,
+        357,
+        35,
+        21
+      ],
+      "confidence": 0.999157726764679,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1%",
+      "bbox": [
+        125,
+        361,
+        21,
+        17
+      ],
+      "confidence": 0.9998091459274292,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Food. Drinks. Smiles",
+      "bbox": [
+        427,
+        356,
+        84,
+        17
+      ],
+      "confidence": 0.9746832847595215,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "987 mg",
+      "bbox": [
+        26,
+        375,
+        47,
+        21
+      ],
+      "confidence": 0.963310956954956,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "10%",
+      "bbox": [
+        120,
+        380,
+        29,
+        20
+      ],
+      "confidence": 0.9997979998588562,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Míg. & Mkt. by: PEPSICO INDIA HOLDING",
+      "bbox": [
+        327,
+        372,
+        199,
+        20
+      ],
+      "confidence": 0.9646058082580566,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "fssai",
+      "bbox": [
+        385,
+        388,
+        58,
+        31
+      ],
+      "confidence": 0.9031069874763489,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "es",
+      "bbox": [
+        0,
+        398,
+        19,
+        17
+      ],
+      "confidence": 0.9742922782897949,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "consumption pack",
+      "bbox": [
+        0,
+        424,
+        94,
+        22
+      ],
+      "confidence": 0.9703317880630493,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Mkt. Lic. No. 10014064000435",
+      "bbox": [
+        328,
+        416,
+        135,
+        16
+      ],
+      "confidence": 0.9904917478561401,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For Mkt. Address, scan Barcode via Smat Consume",
+      "bbox": [
+        327,
+        428,
+        199,
+        19
+      ],
+      "confidence": 0.8869248032569885,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "For Manufacturer's Lic. No., sae finst hwo characten",
+      "bbox": [
+        328,
+        442,
+        193,
+        18
+      ],
+      "confidence": 0.9029831290245056,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "/- (INCL OF ALL TAXES)",
+      "bbox": [
+        0,
+        452,
+        175,
+        34
+      ],
+      "confidence": 0.9564962983131409,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "below:",
+      "bbox": [
+        328,
+        454,
+        31,
+        14
+      ],
+      "confidence": 0.986744225025177,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "N1: Lic. No. 10012063000110 N2: Lic. No. 100120",
+      "bbox": [
+        327,
+        466,
+        197,
+        14
+      ],
+      "confidence": 0.9774497747421265,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "N3: Lic. No. 10012031000120 N4: Lic. No 12721",
+      "bbox": [
+        327,
+        479,
+        198,
+        14
+      ],
+      "confidence": 0.9765329957008362,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "CE:",
+      "bbox": [
+        0,
+        508,
+        26,
+        23
+      ],
+      "confidence": 0.9998486042022705,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Rs. 0.38/-PERg",
+      "bbox": [
+        14,
+        503,
+        130,
+        35
+      ],
+      "confidence": 0.9529442191123962,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1+250)",
+      "bbox": [
+        131,
+        525,
+        55,
+        37
+      ],
+      "confidence": 0.44788955539644015,
+      "engine": "easyocr"
+    },
+    {
+      "text": "02-42",
+      "bbox": [
+        162,
+        511,
+        15,
+        27
+      ],
+      "confidence": 0.9235998392105103,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1.3/N30308260",
+      "bbox": [
+        21,
+        521,
+        133,
+        30
+      ],
+      "confidence": 0.990044355392456,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "*For details on PeosiCo",
+      "bbox": [
+        421,
+        516,
+        105,
+        13
+      ],
+      "confidence": 0.9629626274108887,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "03/08/26&16/12/26",
+      "bbox": [
+        20,
+        537,
+        144,
+        30
+      ],
+      "confidence": 0.9994522333145142,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "partnenship with farme",
+      "bbox": [
+        423,
+        529,
+        104,
+        14
+      ],
+      "confidence": 0.9501850605010986,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "visit",
+      "bbox": [
+        421,
+        544,
+        32,
+        14
+      ],
+      "confidence": 0.9149687886238098,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "hepsicoindi",
+      "bbox": [
+        470,
+        543,
+        57,
+        14
+      ],
+      "confidence": 0.8034742474555969,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NO.:",
+      "bbox": [
+        0,
+        557,
+        30,
+        24
+      ],
+      "confidence": 0.9968364238739014,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "26.5g (24g +2.5g)",
+      "bbox": [
+        21,
+        566,
+        137,
+        31
+      ],
+      "confidence": 0.9570685029029846,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Find us",
+      "bbox": [
+        412,
+        573,
+        30,
+        11
+      ],
+      "confidence": 0.9831031560897827,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "6",
+      "bbox": [
+        476,
+        565,
+        10,
+        10
+      ],
+      "confidence": 0.9869964122772217,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "tacebook",
+      "bbox": [
+        408,
+        580,
+        38,
+        16
+      ],
+      "confidence": 0.886252224445343,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "yóada",
+      "bbox": [
+        454,
+        578,
+        50,
+        16
+      ],
+      "confidence": 0.34868544340133667,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "8901491981538",
+      "bbox": [
+        312,
+        627,
+        175,
+        38
+      ],
+      "confidence": 0.9991687536239624,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "BURSTING MIY:: FL+",
+      "bbox": [
+        316,
+        3,
+        159,
+        29
+      ],
+      "confidence": 0.07176174235866635,
+      "engine": "easyocr"
+    },
+    {
+      "text": "",
+      "bbox": [
+        132,
+        82,
+        26,
+        6
+      ],
+      "confidence": 0.0,
+      "engine": "easyocr"
+    },
+    {
+      "text": "+2\"0N\"",
+      "bbox": [
+        60,
+        174,
+        32,
+        8
+      ],
+      "confidence": 0.0005056430746534258,
+      "engine": "easyocr"
+    },
+    {
+      "text": "6-9",
+      "bbox": [
+        73,
+        223,
+        26,
+        14
+      ],
+      "confidence": 0.7610353503608552,
+      "engine": "easyocr"
+    },
+    {
+      "text": "5239",
+      "bbox": [
+        71,
+        237,
+        30,
+        14
+      ],
+      "confidence": 0.455861934425561,
+      "engine": "easyocr"
+    },
+    {
+      "text": "३२०",
+      "bbox": [
+        73,
+        255,
+        24,
+        14
+      ],
+      "confidence": 0.3996342115102733,
+      "engine": "easyocr"
+    },
+    {
+      "text": "LAYS",
+      "bbox": [
+        404,
+        244,
+        64,
+        24
+      ],
+      "confidence": 0.7852265569643434,
+      "engine": "easyocr"
+    },
+    {
+      "text": "259",
+      "bbox": [
+        71,
+        273,
+        26,
+        14
+      ],
+      "confidence": 0.914069593656778,
+      "engine": "easyocr"
+    },
+    {
+      "text": "359",
+      "bbox": [
+        69,
+        291,
+        32,
+        14
+      ],
+      "confidence": 0.9116698175311252,
+      "engine": "easyocr"
+    },
+    {
+      "text": "151.9\"",
+      "bbox": [
+        67,
+        307,
+        34,
+        14
+      ],
+      "confidence": 0.16494885752396318,
+      "engine": "easyocr"
+    },
+    {
+      "text": "019",
+      "bbox": [
+        69,
+        343,
+        28,
+        14
+      ],
+      "confidence": 0.9438875913619995,
+      "engine": "easyocr"
+    },
+    {
+      "text": "-७७९",
+      "bbox": [
+        65,
+        361,
+        36,
+        14
+      ],
+      "confidence": 0.013587028719484806,
+      "engine": "easyocr"
+    },
+    {
+      "text": "Fo NaL",
+      "bbox": [
+        329,
+        397,
+        32,
+        14
+      ],
+      "confidence": 0.29953200052169104,
+      "engine": "easyocr"
+    },
+    {
+      "text": "cगEnफफ म",
+      "bbox": [
+        45,
+        407,
+        66,
+        12
+      ],
+      "confidence": 0.012943225268284621,
+      "engine": "easyocr"
+    },
+    {
+      "text": "SLE PRICE:",
+      "bbox": [
+        0,
+        484,
+        64,
+        24
+      ],
+      "confidence": 0.5951477464822001,
+      "engine": "easyocr"
+    },
+    {
+      "text": "0",
+      "bbox": [
+        149,
+        485,
+        12,
+        26
+      ],
+      "confidence": 0.048936324442833135,
+      "engine": "easyocr"
+    },
+    {
+      "text": "pertershlo HIट\"=",
+      "bbox": [
+        419,
+        493,
+        96,
+        16
+      ],
+      "confidence": 0.09192604551543952,
+      "engine": "easyocr"
+    },
+    {
+      "text": "anl:",
+      "bbox": [
+        1,
+        593,
+        28,
+        16
+      ],
+      "confidence": 0.30734914541244507,
+      "engine": "easyocr"
+    },
+    {
+      "text": "१०",
+      "bbox": [
+        351,
+        597,
+        22,
+        14
+      ],
+      "confidence": 0.8280335147244076,
+      "engine": "easyocr"
+    },
+    {
+      "text": "\"981538",
+      "bbox": [
+        409,
+        603,
+        68,
+        16
+      ],
+      "confidence": 0.49187937081814787,
+      "engine": "easyocr"
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "image_id": "label_glare_01.jpg",
+  "image_width": 450,
+  "image_height": 709,
+  "status": "ok",
+  "blocks": [
+    {
+      "text": "CALL US AT 1600 2.42",
+      "bbox": [
+        0,
+        0,
+        152,
+        37
+      ],
+      "confidence": 0.8925378918647766,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "EMAIL US AT",
+      "bbox": [
+        0,
+        20,
+        85,
+        24
+      ],
+      "confidence": 0.9405205249786377,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "BURSTING W",
+      "bbox": [
+        311,
+        11,
+        126,
+        34
+      ],
+      "confidence": 0.9517644643783569,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NSUMER.FEEDBACK@PEPSICO.COM",
+      "bbox": [
+        0,
+        36,
+        216,
+        22
+      ],
+      "confidence": 0.967658519744873,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "aed on internal grading and quality pere",
+      "bbox": [
+        0,
+        53,
+        177,
+        17
+      ],
+      "confidence": 0.8581050634384155,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OPRIETARY FOOD-POTATO CHIPS (15.1)",
+      "bbox": [
+        0,
+        64,
+        185,
+        19
+      ],
+      "confidence": 0.9779459834098816,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "DIENT9: Potato (82%), Edible Vegeabe Or",
+      "bbox": [
+        0,
+        72,
+        180,
+        24
+      ],
+      "confidence": 0.8066081404685974,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "maoning (Sugar, lodised Salt, Spioes and Condments",
+      "bbox": [
+        0,
+        84,
+        200,
+        20
+      ],
+      "confidence": 0.8854687213897705,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "aodextrin, Flavour (Natural and Nature ldentical Fevouring",
+      "bbox": [
+        0,
+        94,
+        218,
+        20
+      ],
+      "confidence": 0.8904098868370056,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "utances), Lime Juice Powder, Edible Vegstable O",
+      "bbox": [
+        0,
+        105,
+        192,
+        18
+      ],
+      "confidence": 0.9114809036254883,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "nflower Seed Oi), Flavour Enhancers (B27.631",
+      "bbox": [
+        0,
+        115,
+        185,
+        20
+      ],
+      "confidence": 0.870997428894043,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "favouring agent.",
+      "bbox": [
+        0,
+        132,
+        71,
+        14
+      ],
+      "confidence": 0.9224182963371277,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "COOKED&DE",
+      "bbox": [
+        335,
+        134,
+        109,
+        27
+      ],
+      "confidence": 0.9887080788612366,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "know the spocific type of al used and its saturated fat vs",
+      "bbox": [
+        0,
+        140,
+        229,
+        20
+      ],
+      "confidence": 0.899900496006012,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ch the symbol 0 or a with the last character of batch number",
+      "bbox": [
+        0,
+        151,
+        230,
+        18
+      ],
+      "confidence": 0.9426303505897522,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "SEASONED1T0",
+      "bbox": [
+        368,
+        152,
+        71,
+        19
+      ],
+      "confidence": 0.8433409333229065,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ae  denctes Palmlen and # denotes Rice Bran O",
+      "bbox": [
+        0,
+        161,
+        201,
+        19
+      ],
+      "confidence": 0.7269123792648315,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "UTRITIONAL INFORMATIONAA",
+      "bbox": [
+        0,
+        181,
+        123,
+        20
+      ],
+      "confidence": 0.9730319976806641,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "SERVE SZE 20g",
+      "bbox": [
+        142,
+        181,
+        67,
+        17
+      ],
+      "confidence": 0.9661378860473633,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Nutrients",
+      "bbox": [
+        0,
+        201,
+        38,
+        19
+      ],
+      "confidence": 0.9230906367301941,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Per 100 g",
+      "bbox": [
+        86,
+        200,
+        45,
+        19
+      ],
+      "confidence": 0.9460703730583191,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "%RDA Per Serve",
+      "bbox": [
+        140,
+        198,
+        70,
+        21
+      ],
+      "confidence": 0.9121484756469727,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Energy",
+      "bbox": [
+        0,
+        222,
+        29,
+        15
+      ],
+      "confidence": 0.9998243451118469,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "536 kcal",
+      "bbox": [
+        91,
+        220,
+        37,
+        15
+      ],
+      "confidence": 0.8516539931297302,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "6%",
+      "bbox": [
+        164,
+        220,
+        20,
+        17
+      ],
+      "confidence": 0.8519856929779053,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Protein",
+      "bbox": [
+        0,
+        237,
+        31,
+        19
+      ],
+      "confidence": 0.9986867904663086,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "6.4g",
+      "bbox": [
+        98,
+        237,
+        27,
+        16
+      ],
+      "confidence": 0.9809759855270386,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Carbohydrate",
+      "bbox": [
+        0,
+        255,
+        58,
+        17
+      ],
+      "confidence": 0.9951760172843933,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "62.39",
+      "bbox": [
+        97,
+        254,
+        31,
+        15
+      ],
+      "confidence": 0.8806977272033691,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Total Sugars",
+      "bbox": [
+        10,
+        273,
+        56,
+        18
+      ],
+      "confidence": 0.9997856020927429,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "3.2g",
+      "bbox": [
+        99,
+        272,
+        28,
+        16
+      ],
+      "confidence": 0.9745524525642395,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "LAY'S",
+      "bbox": [
+        390,
+        277,
+        60,
+        34
+      ],
+      "confidence": 0.9991629719734192,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Adided Sugars",
+      "bbox": [
+        18,
+        291,
+        64,
+        17
+      ],
+      "confidence": 0.9274669885635376,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "2.6g",
+      "bbox": [
+        100,
+        290,
+        28,
+        16
+      ],
+      "confidence": 0.9010539054870605,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1%",
+      "bbox": [
+        172,
+        292,
+        17,
+        14
+      ],
+      "confidence": 0.9845654964447021,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Total Fat",
+      "bbox": [
+        0,
+        310,
+        38,
+        18
+      ],
+      "confidence": 0.9983795881271362,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "33.5g",
+      "bbox": [
+        99,
+        309,
+        32,
+        16
+      ],
+      "confidence": 0.9994751811027527,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "10%",
+      "bbox": [
+        169,
+        309,
+        22,
+        17
+      ],
+      "confidence": 0.9999834895133972,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "FINEST POTA",
+      "bbox": [
+        339,
+        308,
+        111,
+        36
+      ],
+      "confidence": 0.9962848424911499,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Saturated Fart",
+      "bbox": [
+        10,
+        327,
+        66,
+        17
+      ],
+      "confidence": 0.8855476379394531,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "15.1 g6",
+      "bbox": [
+        99,
+        325,
+        34,
+        17
+      ],
+      "confidence": 0.8367394804954529,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1505",
+      "bbox": [
+        164,
+        322,
+        33,
+        32
+      ],
+      "confidence": 0.4317522644996643,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        104,
+        338,
+        23,
+        12
+      ],
+      "confidence": 0.9997378587722778,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "7.7 g",
+      "bbox": [
+        101,
+        348,
+        30,
+        17
+      ],
+      "confidence": 0.8699101209640503,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "7%",
+      "bbox": [
+        171,
+        347,
+        23,
+        17
+      ],
+      "confidence": 0.992363691329956,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "迎",
+      "bbox": [
+        362,
+        339,
+        37,
+        41
+      ],
+      "confidence": 0.6994923949241638,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "pepsi",
+      "bbox": [
+        391,
+        344,
+        59,
+        35
+      ],
+      "confidence": 0.894978404045105,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Trans Fat",
+      "bbox": [
+        12,
+        368,
+        43,
+        15
+      ],
+      "confidence": 0.9976069331169128,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "0.19",
+      "bbox": [
+        103,
+        365,
+        28,
+        16
+      ],
+      "confidence": 0.9739713072776794,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1%",
+      "bbox": [
+        175,
+        364,
+        19,
+        17
+      ],
+      "confidence": 0.9997864961624146,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Sodium",
+      "bbox": [
+        0,
+        385,
+        38,
+        19
+      ],
+      "confidence": 0.9991679787635803,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "987 mg",
+      "bbox": [
+        98,
+        383,
+        39,
+        18
+      ],
+      "confidence": 0.9739265441894531,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "10%",
+      "bbox": [
+        172,
+        383,
+        23,
+        17
+      ],
+      "confidence": 0.9999073147773743,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Vi.& Mic. by PEPSICO INDIA HOLD",
+      "bbox": [
+        329,
+        381,
+        121,
+        23
+      ],
+      "confidence": 0.8569169640541077,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Approximate Values",
+      "bbox": [
+        0,
+        403,
+        97,
+        22
+      ],
+      "confidence": 0.9670136570930481,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Issal",
+      "bbox": [
+        372,
+        405,
+        35,
+        23
+      ],
+      "confidence": 0.796673595905304,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Mit.Lc:.No.:10014054000415",
+      "bbox": [
+        330,
+        422,
+        91,
+        21
+      ],
+      "confidence": 0.804111123085022,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Pack<20gis a aingle consumption pack",
+      "bbox": [
+        0,
+        429,
+        156,
+        20
+      ],
+      "confidence": 0.8243072032928467,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Fo ikc Adtis sn Seian",
+      "bbox": [
+        330,
+        435,
+        108,
+        20
+      ],
+      "confidence": 0.4318646490573883,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "MRP Rs. 10/- (INCL. OF ALL TAXES)",
+      "bbox": [
+        0,
+        456,
+        225,
+        30
+      ],
+      "confidence": 0.9271618127822876,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "Fo lienuacuers Lo No. s ",
+      "bbox": [
+        330,
+        449,
+        110,
+        19
+      ],
+      "confidence": 0.6033167839050293,
+      "engine": "paddleocr"
+    },
+    {
+      "text": ":Uc:No.100",
+      "bbox": [
+        330,
+        469,
+        120,
+        19
+      ],
+      "confidence": 0.8049524426460266,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "N: No:100120810000",
+      "bbox": [
+        331,
+        481,
+        119,
+        19
+      ],
+      "confidence": 0.8040192127227783,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "UITSALEPRICE:R038-PERg",
+      "bbox": [
+        0,
+        502,
+        233,
+        44
+      ],
+      "confidence": 0.7876430153846741,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "*For details",
+      "bbox": [
+        397,
+        517,
+        53,
+        18
+      ],
+      "confidence": 0.9389097094535828,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "1.3/N30308260",
+      "bbox": [
+        96,
+        529,
+        118,
+        27
+      ],
+      "confidence": 0.9970225691795349,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "partmersnip",
+      "bbox": [
+        398,
+        531,
+        52,
+        19
+      ],
+      "confidence": 0.8518556952476501,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "NO. OF SERVES",
+      "bbox": [
+        0,
+        547,
+        86,
+        28
+      ],
+      "confidence": 0.9475131630897522,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "03/08/26816/17/28",
+      "bbox": [
+        93,
+        550,
+        126,
+        26
+      ],
+      "confidence": 0.9115581512451172,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "vatwww.",
+      "bbox": [
+        401,
+        546,
+        49,
+        18
+      ],
+      "confidence": 0.8554741144180298,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ER PACK/B.NO",
+      "bbox": [
+        0,
+        566,
+        95,
+        28
+      ],
+      "confidence": 0.941180408000946,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "26.5g (24g+2.5g)",
+      "bbox": [
+        91,
+        584,
+        118,
+        34
+      ],
+      "confidence": 0.9870202541351318,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "国",
+      "bbox": [
+        399,
+        577,
+        40,
+        24
+      ],
+      "confidence": 0.12406988441944122,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "FD & USE BY:",
+      "bbox": [
+        0,
+        602,
+        83,
+        32
+      ],
+      "confidence": 0.9814581274986267,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "ET OTY:",
+      "bbox": [
+        0,
+        639,
+        44,
+        26
+      ],
+      "confidence": 0.8680919408798218,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "8",
+      "bbox": [
+        332,
+        665,
+        14,
+        19
+      ],
+      "confidence": 0.9998986721038818,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "9014010315",
+      "bbox": [
+        349,
+        663,
+        100,
+        31
+      ],
+      "confidence": 0.8520520329475403,
+      "engine": "paddleocr"
+    },
+    {
+      "text": "टoortonp",
+      "bbox": [
+        326,
+        166,
+        90,
+        42
+      ],
+      "confidence": 0.009516754298375448,
+      "engine": "easyocr"
+    }
+  ]
+}
