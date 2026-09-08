@@ -9,7 +9,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
 
 from vision.ocr.easyocr_engine import run_easyocr
 
-TEST_IMAGE = os.path.join("sample_data", "sample_labels", "label_hindi_01.jpg")
+TEST_IMAGE = os.path.join("sample_data", "sample_labels", "label_clean_01.jpg")
 
 if __name__ == "__main__":
     print(f"Running EasyOCR on: {TEST_IMAGE}")

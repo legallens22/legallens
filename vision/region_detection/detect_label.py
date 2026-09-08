@@ -40,3 +40,4 @@ def detect_label(cleaned_image: np.ndarray, margin_pct: float = 0.05) -> np.ndar
 
     trimmed = cleaned_image[trim_y:h - trim_y, trim_x:w - trim_x]
     return trimmed
+    

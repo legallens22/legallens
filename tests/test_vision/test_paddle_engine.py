@@ -9,7 +9,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
 
 from vision.ocr.paddle_engine import run_paddle_ocr
 
-TEST_IMAGE = os.path.join("sample_data", "sample_labels", "label_hindi_01.jpg")
+TEST_IMAGE = os.path.join("sample_data", "sample_labels", "label_clean_03.jpg")
 
 if __name__ == "__main__":
     print(f"Running PaddleOCR on: {TEST_IMAGE}")

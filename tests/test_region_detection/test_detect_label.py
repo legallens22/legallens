@@ -1,54 +1,50 @@
 """
-Stage 3 of the vision pipeline: label region detection.
+Manual test script for detect_label().
+
+Runs the full chain so far: clean_image() -> detect_label(), and saves
+the cropped output so we can visually check whether it actually grabs
+the label or grabs something else (hand, table, background).
 """
 
 import cv2
-import numpy as np
+import os
+import sys
 
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
 
-def detect_label(cleaned_image: np.ndarray) -> np.ndarray:
-    """
-    Args:
-        cleaned_image: output of clean_image() — a BGR numpy array.
+from vision.preprocessing.clean_image import clean_image
+from vision.region_detection.detect_label import detect_label
 
-    Returns:
-        A cropped numpy array containing just the detected label
-        region, or the original image if no confident region is found.
-    """
-    gray = cv2.cvtColor(cleaned_image, cv2.COLOR_BGR2GRAY)
-    blurred = cv2.GaussianBlur(gray, (5, 5), 0)
-    edges = cv2.Canny(blurred, 50, 150)
+INPUT_DIR = os.path.join("sample_data", "sample_labels")
+OUTPUT_DIR = os.path.join("sample_data", "cropped_previews")
 
-    # --- Dilation: merge nearby edge fragments into solid blobs ---
-    # A label has dense text/lines that are individually small edges;
-    # dilating connects them into one blob. A stray background crack
-    # (e.g. wood grain) stays thin and isolated, so it won't compete
-    # with the label's merged blob after this step.
-    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (15, 15))
-    dilated = cv2.dilate(edges, kernel, iterations=2)
+TEST_IMAGES = [
+    "label_clean_01.jpg",
+    "label_glare_01.jpg",
+    "label_angled_01.jpg",
+    "label_blurry_01.jpg",
+]
 
-    contours, _ = cv2.findContours(
-        dilated, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE
-    )
+def run():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    if not contours:
-        return cleaned_image
+    for filename in TEST_IMAGES:
+        input_path = os.path.join(INPUT_DIR, filename)
 
-    largest = max(contours, key=cv2.contourArea)
-    x, y, w, h = cv2.boundingRect(largest)
+        if not os.path.exists(input_path):
+            print(f"SKIP: {filename} not found at {input_path}")
+            continue
 
-    image_area = cleaned_image.shape[0] * cleaned_image.shape[1]
-    box_area = w * h
+        print(f"Processing: {filename}")
+        cleaned = clean_image(input_path)
+        cropped = detect_label(cleaned)
 
-    # Reject boxes that are too small (noise) OR suspiciously thin
-    # (aspect ratio check) — a wood-grain crack produces a very wide,
-    # very short box; a real label is roughly proportioned.
-    aspect_ratio = w / h if h > 0 else 0
-    too_small = box_area < 0.05 * image_area
-    too_thin = aspect_ratio > 8 or aspect_ratio < 0.125
+        output_path = os.path.join(OUTPUT_DIR, f"cropped_{filename}")
+        cv2.imwrite(output_path, cropped)
 
-    if too_small or too_thin:
-        return cleaned_image
+        print(f"  original size: {cleaned.shape[:2]}")
+        print(f"  cropped size:  {cropped.shape[:2]}")
+        print(f"  -> saved to {output_path}")
 
-    cropped = cleaned_image[y:y+h, x:x+w]
-    return cropped
+if __name__ == "__main__":
+    run()
